@@ -1,10 +1,10 @@
 ---
 date: 2019-12-15
 plaats: "Delft"
-naam: "Molen de Roos"
-title: "Molen de Roos"
-afbeelding: "/images/De-Roos-westland.jpg"
-tags: ["molens"]
+naam: "de Roos"
+title: "de Roos"
+afbeelding: "/images/bestaandemolens/de Roos.jpg"
+tags: ["molens", "Delft"]
 ---
 
 Molen "De Roos" is de laatst overgebleven molen van de 15 die er ooit op
