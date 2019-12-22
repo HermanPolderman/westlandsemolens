@@ -5,4 +5,6 @@ afbeelding: "/images/Vlag_Westland.png"
 weight: 20
 ---
 
+<!--
 {{< gallery dir="/images/bestaandemolens" />}}`
+-->
