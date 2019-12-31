@@ -1,7 +1,7 @@
 ---
 plaats: "den Hoorn"
-naam: "Naam"
+naam: "den Hoorn"
 title: "den Hoorn"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

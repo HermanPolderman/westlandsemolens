@@ -1,7 +1,7 @@
 ---
 plaats: "Maasland"
-naam: "Naam"
+naam: "Maasland"
 title: "Maasland"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

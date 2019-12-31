@@ -1,7 +1,7 @@
 ---
 plaats: "Naaldwijk"
-naam: "Naam"
+naam: "Naaldwijk"
 title: "Naaldwijk"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

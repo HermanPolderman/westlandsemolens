@@ -1,8 +1,8 @@
 ---
 date: 2019-12-15
 plaats: "'s-Gravenzande"
-naam: "Naam"
+naam: "'s-Gravenzande"
 title: "'s-Gravenzande"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

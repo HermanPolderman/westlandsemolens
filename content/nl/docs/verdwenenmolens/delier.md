@@ -1,7 +1,7 @@
 ---
 plaats: "de Lier"
-naam: "Naam"
+naam: "de Lier"
 title: "de Lier"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

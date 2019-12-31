@@ -1,6 +1,7 @@
 ---
 title: "Model Molens"
-date: 2017-03-02T12:00:00-05:00
+date: 2020
 afbeelding: "/images/Vlag_Westland.png"
 ---
 
+{{< gallery dir="/images/modelmolens" />}}`

@@ -1,7 +1,7 @@
 ---
 plaats: "den Haag"
-naam: "Naam"
+naam: "den Haag"
 title: "den Haag"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

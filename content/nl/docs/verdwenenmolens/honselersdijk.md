@@ -1,7 +1,7 @@
 ---
 plaats: "Honselersdijk"
-naam: "Naam"
+naam: "Honselersdijk"
 title: "Honselersdijk"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

@@ -1,7 +1,7 @@
 ---
 plaats: "Kwintsheul"
-naam: "Naam"
+naam: "Kwintsheul"
 title: "Kwintsheul"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

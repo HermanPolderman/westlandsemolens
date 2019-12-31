@@ -1,8 +1,8 @@
 ---
 date: 2019-12-15
-plaats: "den Hoorn"
-naam: "Naam"
-title: "den Hoorn"
+plaats: "Schipluiden"
+naam: "Schipluiden"
+title: "Schipluiden"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

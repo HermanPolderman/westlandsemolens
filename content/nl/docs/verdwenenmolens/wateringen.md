@@ -1,8 +1,8 @@
 ---
 date: 2019-12-15
 plaats: "Wateringen"
-naam: "Naam"
+naam: "Wateringen"
 title: "Wateringen"
 afbeelding: "/images/.jpg"
-tags: ["molens"]
+tags: ["verdwenenmolens"]
 ---

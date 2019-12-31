@@ -1,7 +1,7 @@
 ---
 plaats: "Delft"
-naam: "naam"
+naam: "Delft"
 title: "Delft"
-afbeelding: "/images/De-Roos-westland.jpg"
-tags: ["molens"]
+afbeelding: "/images/.jpg"
+tags: ["verdwenenmolens"]
 ---
