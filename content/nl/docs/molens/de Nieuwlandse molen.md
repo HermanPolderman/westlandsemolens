@@ -50,3 +50,5 @@ pompkoker volgestort met zand. De verhoging is uitgevoerd door
 molenmakersbedrijf Verbij uit Hoogmade. De fam. Van der Knijff was
 generaties lang molenaar op de Nieuwlandse molen die in de volksmond de
 molen van Knijff wordt genoemd
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=991

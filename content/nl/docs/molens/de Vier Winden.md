@@ -46,3 +46,6 @@ buiten gebruik en verkochten die met de bijbehorende gebouwen in 1957
 aan de gemeente Monster. Na verschillende restauraties is de molen weer
 regelmatig in bedrijf. Vanaf 1983 wordt hij bemalen door leden van het
 Gilde van Vrijwillige molenaars.  
+
+eigen website: http://www.devierwindenmonster.nl
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1062

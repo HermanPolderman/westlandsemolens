@@ -19,3 +19,5 @@ In de loop der jaren is het gaande werk compleet vernieuwd. Er wordt
 regelmatig op woensdagmiddag en op zaterdag gemalen. Ook worden er dan
 producten van de Vlaardingse molen 'Aeolus verkocht. De molen wordt door
 vrijwillige molenaars bediend en onderhouden.
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1054

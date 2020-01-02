@@ -66,3 +66,5 @@ roeden van de firma Vaags uit Aalten in. Door een ongeval op 6 februari
 2014 is het wiekenkruis met deelbare roeden verloren gegaan. 
 Hierna zijn ondeelbare roeden terug geplaatst.
 
+eigen website: https://www.molenvansgravenzande.nl
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=937

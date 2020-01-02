@@ -44,9 +44,13 @@ gehele stelling vervangen i.v.m. de slechte staat van de stelling. De
 molen staat er nu weer prima bij, dankzij de inzet van een actief
 stichtingsbestuur. Ook kun je de foto's van de restauratie welke in
 1971-1972 is uitgevoerd om de molen weer te completeren bekijken: 
-Foto's Meer informatie over de molenaars en de molen
-op:http://www.monumentaalwestland.nl/ Hier kunt u de molen van binnen
-bekijken:  Virtuele rondleiding Klik op de bewegende rondjes om naar de
+
+Meer informatie over de molenaars en de molen op:http://www.monumentaalwestland.nl/ 
+
+<!-- todo Hier kunt u de molen van binnen bekijken:  Klik op de bewegende rondjes om naar de
 volgende verdieping te gaan. Om op de kapzolder te komen klikt u op het
 rondje bij het wiel van het luiwerk. Met dank aan Patrick van der Stap
 voor de panoramafoto's.
+-->
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1137

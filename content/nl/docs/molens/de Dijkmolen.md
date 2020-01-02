@@ -46,3 +46,5 @@ restaureren van het metselwerk van de waterlopen en krimpmuren en het
 vervangen van het scheprad op het programma. De molen wordt bewoont door
 de molenaar en zijn gezin en doet nog dienst als hulpgemaal van de
 Dijkpolder.
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1053

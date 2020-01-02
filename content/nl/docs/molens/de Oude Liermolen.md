@@ -50,3 +50,4 @@ Crossley dieselmotor heeft dienst gedaan tot 1981, totdat het nieuwe
 automatische gemaal klaar was. De motor met vijzel doet bij extreme
 regenval nog wel dienst als hulpbemaling.
 
+molendatabase: https://www.molendatabase.org/molendb.php?step=details&nummer=172

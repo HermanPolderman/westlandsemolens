@@ -47,3 +47,5 @@ molen stond een oude molenaarswoning/stalletje, dat in de tweede helft
 van april 1988 werd herbouwd als molenaarswoning. Sinds januari 1989
 woont de molenaar/machinist  met zijn gezin in de woning en laat deze
 molen veel malen/draaien. 
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1111

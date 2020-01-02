@@ -36,3 +36,5 @@ overdracht ging ook voor f 1,-. Delfland kreeg van de gemeente een gift
 om het achterstallig onderhoud weg te werken. In de jaren daarna werden
 de roeden opnieuw opgehekt en de hele molen geschilderd, zodat molen in
 goede staat verkeert en regelmatig draaiend te zien is.
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1055

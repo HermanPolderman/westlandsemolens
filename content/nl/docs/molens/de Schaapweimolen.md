@@ -35,3 +35,5 @@ de sloot, fungeert de molen nu als stand-by in de bemaling van de
 gezamenlijke Hoek-, Plaspoel-, Schaapweipolder, onder beheer van de
 huidige eigenaar : het Hoogheemraadschap van Delfland. De molen is
 regelmatig op zaterdag geopend en gratis te bezichtigen.
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1098

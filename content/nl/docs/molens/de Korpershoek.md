@@ -44,3 +44,5 @@ gesteld. Daags daarna werd een open dag gehouden voor de Schipluidense
 bevolking, waar grote belangstelling voor was. De molen is een pronkstuk
 voor het dorp Schipluiden en het is te hopen dat de molen tot in lengte
 van jaren malende/draaiende te zien zal zijn.         
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1110
