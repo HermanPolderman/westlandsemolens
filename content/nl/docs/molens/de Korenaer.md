@@ -35,4 +35,5 @@ jaren later werd een vrijwillig molenaar aangesteld, die de molen
 regelmatig in bedrijf stelt.
 
 eigen website: https://www.molendekorenaer.nl
+
 molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1049

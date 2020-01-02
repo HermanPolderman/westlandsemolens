@@ -46,4 +46,5 @@ algehele restauratie is in september 2006 van start gegaan De molen is
 inmiddels gerestaureerd en draait weer.
 
 eigen website: https://www.molendedrielelies.nl
+
 molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1052

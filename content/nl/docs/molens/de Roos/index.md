@@ -65,6 +65,7 @@ loop van 2014 komt er een nieuwe huurder in de molen. Het is een Delftse
 ondernemer die streekproducten verkoopt. Neem alvast een kijkje op zijn
 website wat er allemaal mogelijk is. Website: http://www.ambachtdelft.nl
 Ook is er een nieuwe website van molen de Roos gelanceerd:
-http://www.delftsemolen.nl
 
-Technische gegevens: https://www.molendatabase.nl/nederland/molen.php?nummer=959
+eigen website: http://www.delftsemolen.nl
+
+molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=959

@@ -67,4 +67,5 @@ roeden van de firma Vaags uit Aalten in. Door een ongeval op 6 februari
 Hierna zijn ondeelbare roeden terug geplaatst.
 
 eigen website: https://www.molenvansgravenzande.nl
+
 molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=937
