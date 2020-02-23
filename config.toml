@@ -1,4 +1,4 @@
-baseURL = "http://vps.polderman.net/"
+baseURL = "https://westlandsemolens.polderman.net/"
 title = "Westlandse Molens"
 
 enableRobotsTXT = true
