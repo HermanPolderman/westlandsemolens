@@ -3,7 +3,7 @@ date: 2019-10-06
 title: "de Roos"
 #description: "Molen de Roos in Delft"
 author: Herman Polderman
----
+---F
 {{< afbeelding Roos Fill "600x300" />}}
 
 Molen "De Roos" is de laatst overgebleven molen van de 15 die er ooit op
