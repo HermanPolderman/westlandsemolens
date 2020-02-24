@@ -6,3 +6,5 @@ title: "Wateringen"
 afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
+
+{{< gallery dir="/images/verdwenenmolens/Wateringen" //>}}

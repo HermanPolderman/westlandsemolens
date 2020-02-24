@@ -6,3 +6,5 @@ title: "'s-Gravenzande"
 afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
+
+{{< gallery dir="/images/verdwenenmolens/'s-Gravenzande" //>}}

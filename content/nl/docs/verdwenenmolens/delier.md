@@ -5,3 +5,6 @@ title: "de Lier"
 afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
+
+
+{{< gallery dir="/images/verdwenenmolens/de Lier/hoefpoldermolen" //>}}
