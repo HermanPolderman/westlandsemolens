@@ -5,3 +5,5 @@ title: "Kwintsheul"
 afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
+
+{{< gallery dir="/images/verdwenenmolens/Kwintsheul" //>}}

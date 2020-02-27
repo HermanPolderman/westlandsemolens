@@ -7,4 +7,4 @@ tags: ["verdwenenmolens"]
 ---
 
 
-{{< gallery dir="/images/verdwenenmolens/de Lier/hoefpoldermolen" //>}}
+{{< gallery dir="/images/verdwenenmolens/de Lier" //>}}

@@ -7,4 +7,4 @@ afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
 
-{{< gallery dir="/images/verdwenenmolens/Voorburg/de vlieger" //>}}
+{{< gallery dir="/images/verdwenenmolens/Voorburg" //>}}

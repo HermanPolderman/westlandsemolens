@@ -5,3 +5,5 @@ title: "Honselersdijk"
 afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
+
+{{< gallery dir="/images/verdwenenmolens/Honselersdijk" //>}}

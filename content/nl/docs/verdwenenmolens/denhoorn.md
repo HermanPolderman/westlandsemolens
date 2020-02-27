@@ -5,3 +5,5 @@ title: "den Hoorn"
 afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
+
+{{< gallery dir="/images/verdwenenmolens/den Hoorn" //>}}

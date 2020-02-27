@@ -6,3 +6,5 @@ title: "Westerlee"
 afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
+
+{{< gallery dir="/images/verdwenenmolens/Westerlee" //>}}
