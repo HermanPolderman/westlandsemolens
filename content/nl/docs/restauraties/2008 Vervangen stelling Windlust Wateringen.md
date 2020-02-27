@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2008 Vervangen stelling Windlust Wateringen" />}}
+{{< load-photoswipe >}}

@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2011 Aanleg windroos de Vier Winden" />}}
+{{< load-photoswipe >}}

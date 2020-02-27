@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2011 Steken roede de Hoop" />}}
+{{< load-photoswipe >}}

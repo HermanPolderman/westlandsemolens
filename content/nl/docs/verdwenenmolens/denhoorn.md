@@ -7,3 +7,4 @@ tags: ["verdwenenmolens"]
 ---
 
 {{< gallery dir="/images/verdwenenmolens/den Hoorn" //>}}
+{{< load-photoswipe >}}

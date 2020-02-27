@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2008 Praathuis de Drie Lelies" />}}
+{{< load-photoswipe >}}

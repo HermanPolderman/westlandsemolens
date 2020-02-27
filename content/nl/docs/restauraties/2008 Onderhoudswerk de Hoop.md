@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2008 Onderhoudswerk de Hoop" />}}
+{{< load-photoswipe >}}

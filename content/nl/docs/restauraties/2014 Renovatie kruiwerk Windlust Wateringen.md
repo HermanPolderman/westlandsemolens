@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2014 Renovatie kruiwerk Windlust Wateringen" />}}
+{{< load-photoswipe >}}

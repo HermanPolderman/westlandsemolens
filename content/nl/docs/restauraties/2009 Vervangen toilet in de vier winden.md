@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2009 Vervangen toilet in de vier winden" />}}
+{{< load-photoswipe >}}

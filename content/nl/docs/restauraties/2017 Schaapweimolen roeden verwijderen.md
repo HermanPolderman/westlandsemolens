@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2017 Schaapweimolen roeden verwijderen" />}}
+{{< load-photoswipe >}}

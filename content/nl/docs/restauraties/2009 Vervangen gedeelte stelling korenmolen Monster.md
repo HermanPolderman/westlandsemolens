@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2009 Vervangen gedeelte stelling korenmolen Monster" />}}
+{{< load-photoswipe >}}

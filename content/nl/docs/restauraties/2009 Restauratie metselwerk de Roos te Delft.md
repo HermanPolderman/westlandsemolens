@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2009 Restauratie metselwerk de Roos te Delft" />}}
+{{< load-photoswipe >}}

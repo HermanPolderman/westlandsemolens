@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2007 ijzeren rollen wateringen" />}}
+{{< load-photoswipe >}}

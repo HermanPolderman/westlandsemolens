@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2006 Riet de Korpershoek" />}}
+{{< load-photoswipe >}}

@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2008 Schilderwerk Groeneveldse molen" />}}
+{{< load-photoswipe >}}

@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2010 Verlichting expositieruimte de Vier Winden" />}}
+{{< load-photoswipe >}}

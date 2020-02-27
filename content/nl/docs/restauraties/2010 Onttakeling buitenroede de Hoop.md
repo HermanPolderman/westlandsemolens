@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2010 Onttakeling buitenroede de Hoop" />}}
+{{< load-photoswipe >}}

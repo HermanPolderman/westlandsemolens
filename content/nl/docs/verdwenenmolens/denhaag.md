@@ -8,4 +8,5 @@ tags: ["verdwenenmolens"]
 
 
 {{< gallery dir="/images/verdwenenmolens/den Haag" //>}}
+{{< load-photoswipe >}}
 

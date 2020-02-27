@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2015 's-Gravenzande As steken" />}}
+{{< load-photoswipe >}}

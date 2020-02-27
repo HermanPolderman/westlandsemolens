@@ -7,3 +7,4 @@ tags: ["verdwenenmolens"]
 ---
 
 {{< gallery dir="/images/verdwenenmolens/Maasland" //>}}
+{{< load-photoswipe >}}

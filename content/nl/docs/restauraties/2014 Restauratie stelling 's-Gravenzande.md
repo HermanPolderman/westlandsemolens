@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2014 Restauratie stelling 's-Gravenzande" />}}
+{{< load-photoswipe >}}

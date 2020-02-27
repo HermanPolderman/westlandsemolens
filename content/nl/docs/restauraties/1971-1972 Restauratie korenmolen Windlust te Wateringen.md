@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/1971-1972 Restauratie korenmolen Windlust te Wateringen" />}}
+{{< load-photoswipe >}}

@@ -8,3 +8,4 @@ tags: ["verdwenenmolens"]
 
 
 {{< gallery dir="/images/verdwenenmolens/de Lier" //>}}
+{{< load-photoswipe >}}

@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2013 Repareren hekwerk molen Groeneveld" />}}
+{{< load-photoswipe >}}

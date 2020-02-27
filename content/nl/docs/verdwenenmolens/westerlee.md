@@ -8,3 +8,4 @@ tags: ["verdwenenmolens"]
 ---
 
 {{< gallery dir="/images/verdwenenmolens/Westerlee" //>}}
+{{< load-photoswipe >}}

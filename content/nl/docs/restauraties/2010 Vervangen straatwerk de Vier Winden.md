@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2010 Vervangen straatwerk de Vier Winden" />}}
+{{< load-photoswipe >}}

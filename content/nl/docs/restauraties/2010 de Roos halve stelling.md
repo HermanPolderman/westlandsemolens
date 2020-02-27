@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2010 de Roos halve stelling" />}}
+{{< load-photoswipe >}}

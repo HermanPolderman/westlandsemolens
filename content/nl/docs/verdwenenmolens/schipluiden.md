@@ -9,3 +9,4 @@ tags: ["verdwenenmolens"]
 
 
 {{< gallery dir="/images/verdwenenmolens/Schipluiden" //>}}
+{{< load-photoswipe >}}

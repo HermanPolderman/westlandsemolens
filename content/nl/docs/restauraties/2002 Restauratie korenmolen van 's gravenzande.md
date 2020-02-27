@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2002 Restauratie korenmolen van 's gravenzande" />}}
+{{< load-photoswipe >}}

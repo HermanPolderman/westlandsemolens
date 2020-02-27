@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2012 Schilderwerk de Hoop" />}}
+{{< load-photoswipe >}}

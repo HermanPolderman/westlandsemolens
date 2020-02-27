@@ -8,3 +8,4 @@ tags: ["verdwenenmolens"]
 ---
 
 {{< gallery dir="/images/verdwenenmolens/Voorburg" //>}}
+{{< load-photoswipe >}}

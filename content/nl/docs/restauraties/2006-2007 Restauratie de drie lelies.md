@@ -5,3 +5,4 @@ tags: ["restauraties"]
 ---
 
 {{< gallery dir="/images/restauraties/2006-2007 Restauratie de drie lelies" />}}
+{{< load-photoswipe >}}
