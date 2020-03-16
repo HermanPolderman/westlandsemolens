@@ -5,7 +5,6 @@ title: "Delfgauw"
 tags: ["verdwenenmolens"]
 ---
 
-de Bieslandse bovenmolen
-{{< gallery dir="/images/verdwenenmolens/Delfgauw" //>}}
-
+de Bieslandse Bovenmolen
+{{< gallery dir="/images/verdwenenmolens/Delfgauw/de Bieslandse Bovenmolen" //>}}
 {{< load-photoswipe >}}
