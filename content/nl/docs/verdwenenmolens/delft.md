@@ -10,9 +10,6 @@ tags: ["verdwenenmolens"]
 
 {{< gallery dir="/images/verdwenenmolens/Delft/diverse" //>}}
 
-de Bieslandse molen
-{{< gallery dir="/images/verdwenenmolens/Delft/de Bieslandse molen" //>}}
-
 de Bordeelmolen
 {{< gallery dir="/images/verdwenenmolens/Delft/de Bordeelmolen" //>}}
 
