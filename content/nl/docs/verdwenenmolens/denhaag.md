@@ -7,52 +7,67 @@ tags: ["verdwenenmolens"]
 ---
 
 {{< gallery dir="/images/verdwenenmolens/den Haag" //>}}
+
 Buitenom
 {{< gallery dir="/images/verdwenenmolens/den Haag/Buitenom" //>}}
+
 Molenslop
 {{< gallery dir="/images/verdwenenmolens/den Haag/Molenslop" //>}}
-Oost Escamp molen
-{{< gallery dir="/images/verdwenenmolens/den Haag/Oost Escamp molen" //>}}
-Oost Mae
-{{< gallery dir="/images/verdwenenmolens/den Haag/Oost Mae" //>}}
+
 de Broeksloot molen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Broeksloot molen" //>}}
+
 de Haan
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Haan" //>}}
+
 de Haas
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Haas" //>}}
+
 de Heertjens molen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Heertjens molen" //>}}
+
 de Laakmolen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Laakmolen" //>}}
+
 de Nieuwe veenmolen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Nieuwe veenmolen" //>}}
+
 de Nijverheid
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Nijverheid" //>}}
+
 de Noord Lelie molen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Noord Lelie molen" //>}}
+
 de Noordmolen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Noordmolen" //>}}
+
 de Ooievaar
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Ooievaar" //>}}
+
 de Oost Escampmolen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Oost Escampmolen" //>}}
-de Oost Mae molen
-{{< gallery dir="/images/verdwenenmolens/den Haag/de Oost Mae molen" //>}}
+
 de Plaspoelpolder
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Plaspoelpolder" //>}}
+
 de Prins van Oranje
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Prins van Oranje" //>}}
+
 de Stier
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Stier" //>}}
+
 de Uithofsmolen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Uithofsmolen" //>}}
+
 de Vier Winden (Scheveningen)
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Vier Winden (Scheveningen)" //>}}
+
 de Vriendschap
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Vriendschap" //>}}
+
 de Westermolens
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Westermolens" //>}}
+
 de Zuidmolen
 {{< gallery dir="/images/verdwenenmolens/den Haag/de Zuidmolen" //>}}
 

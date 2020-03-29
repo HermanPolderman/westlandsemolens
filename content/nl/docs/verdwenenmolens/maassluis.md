@@ -6,5 +6,7 @@ afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
 
-{{< gallery dir="/images/verdwenenmolens/Maassluis" //>}}
+de Arend
+{{< gallery dir="/images/verdwenenmolens/Maassluis/de Arend" //>}}
+
 {{< load-photoswipe >}}
