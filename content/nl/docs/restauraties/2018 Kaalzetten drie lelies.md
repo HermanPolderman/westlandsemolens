@@ -4,5 +4,5 @@ date: 2018
 tags: ["restauraties"]
 ---
 
-{{< gallery dir="/images/restauraties/2018 Kaalzetten drie lelies" />}}
+{{< gallery dir="images/restauraties/2018 Kaalzetten drie lelies" />}}
 {{< load-photoswipe >}}
