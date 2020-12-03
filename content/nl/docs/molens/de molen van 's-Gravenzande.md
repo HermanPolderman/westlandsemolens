@@ -6,6 +6,7 @@ title: "de molen van 's-Gravenzande"
 afbeelding: "/images/bestaandemolens/de molen van 's-Gravenzande.jpg"
 tags: ["molens", "Monster"]
 ---
+{{< molenheader site=https://www.molenvansgravenzande.nl ansicht="de-molen-van-s-gravenzande" nr=937 >}}
 
 Reeds in 1318 kende de stad s-Gravenzande 2 korenmolens: "De Voormolen",
 die in de omgeving van het huidige zuidwind heeft gestaan en in de tijd
@@ -65,7 +66,3 @@ wiekenkruis weer vervangen. Er zitten nu gelaste en verzinkte deelbare
 roeden van de firma Vaags uit Aalten in. Door een ongeval op 6 februari
 2014 is het wiekenkruis met deelbare roeden verloren gegaan. 
 Hierna zijn ondeelbare roeden terug geplaatst.
-
-eigen website: https://www.molenvansgravenzande.nl
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=937

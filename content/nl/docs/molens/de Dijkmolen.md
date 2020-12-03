@@ -6,6 +6,7 @@ title: "de Dijkmolen"
 afbeelding: "/images/bestaandemolens/de Dijkmolen.jpg"
 tags: ["molens", "Maasland"]
 ---
+{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-dijkmolen/ ansicht="de-dijkmolen" nr=1053 >}}
 
 In 1391 wordt de Ommedijkse polder, die later Dijkpolder zou worden
 genoemd, bedijkt. Voor de bemaling van deze polder werd een molen
@@ -46,5 +47,3 @@ restaureren van het metselwerk van de waterlopen en krimpmuren en het
 vervangen van het scheprad op het programma. De molen wordt bewoont door
 de molenaar en zijn gezin en doet nog dienst als hulpgemaal van de
 Dijkpolder.
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1053

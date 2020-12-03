@@ -1,0 +1,14 @@
+<!--
+Put this file in /layouts/shortcodes/molendatabasenl.html
+-->
+
+{{- $siteURL := print ($.Get "site") }}
+{{- $ansichtURL := print "/docs/molens-in-ansichten/" ($.Get "ansicht") "-in-oude-ansichten" }}
+{{- $linkURL := print "https://www.molendatabase.nl/nederland/molen.php?nummer=" ($.Get "nr") }}
+
+<table>
+    <td><a href="{{ $siteURL }}">Eigen website</a></td>
+    <td><a href="{{ $ansichtURL }}">Oude ansichten</a></td>
+    <td><a href="{{ $linkURL }}">Molen Database</a></td>
+</table>
+

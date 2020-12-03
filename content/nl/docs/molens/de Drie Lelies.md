@@ -6,6 +6,9 @@ title: "de Drie Lelies"
 afbeelding: "/images/bestaandemolens/de Drie Lelies.jpg"
 tags: ["molens", "Maasland"]
 ---
+{{< molenheader site=https://www.molendedrielelies.nl ansicht="de-drie-lelies" nr=1052 >}}
+
+
 Sedert ruim twee eeuwen vormt de ronde stenen korenmolen "De Drie
 Lelies" samen met poldermolen "De Dijkmolen" een uniek molenduo aan de
 Molenweg ten noorden van het dorp Maasland. Eigenlijk was het een
@@ -45,6 +48,3 @@ verval. De molen is nadat hij ging draaien tijdens de hevige storm  van
 algehele restauratie is in september 2006 van start gegaan De molen is
 inmiddels gerestaureerd en draait weer.
 
-eigen website: https://www.molendedrielelies.nl
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1052

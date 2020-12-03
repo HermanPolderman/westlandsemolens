@@ -7,6 +7,8 @@ afbeelding: "/images/bestaandemolens/de Oude Liermolen.jpg"
 tags: ["molens", "de Lier"]
 ---
 
+{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-oude-liermolen ansicht="de-oude-liermolen" nr=172 >}}
+
 De bemaling van de Oude Lierpolder dateert van 1445, want in het oudste
 keurboekje van het Hoogheemraadschap van Delfland wordt er melding
 gemaakt dat er in genoemd jaar een watermolen werd gebouwd in de (Oude )
@@ -49,5 +51,3 @@ gemaal onder beheer van het Hoogheemraadschap van Delfland gekomen. De
 Crossley dieselmotor heeft dienst gedaan tot 1981, totdat het nieuwe
 automatische gemaal klaar was. De motor met vijzel doet bij extreme
 regenval nog wel dienst als hulpbemaling.
-
-molendatabase: https://www.molendatabase.org/molendb.php?step=details&nummer=172

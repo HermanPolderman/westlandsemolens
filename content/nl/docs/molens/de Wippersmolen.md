@@ -6,6 +6,8 @@ title: "de Wippersmolen"
 afbeelding: "/images/bestaandemolens/de Wippersmolen.jpg"
 tags: ["molens", "Maassluis"]
 ---
+{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-wippersmolen/ ansicht="de-wippersmolen" nr=1055 >}}
+
 
 Op 9 November 1725 vond er een ingelandenvergadering plaats aan het
 "Huis ter Lucht"  te Maasland, aangaande de bouw van een nieuwe stenen
@@ -36,5 +38,3 @@ overdracht ging ook voor f 1,-. Delfland kreeg van de gemeente een gift
 om het achterstallig onderhoud weg te werken. In de jaren daarna werden
 de roeden opnieuw opgehekt en de hele molen geschilderd, zodat molen in
 goede staat verkeert en regelmatig draaiend te zien is.
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1055

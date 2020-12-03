@@ -6,6 +6,7 @@ title: "de Nieuwlandse molen"
 afbeelding: "/images/bestaandemolens/de Nieuwlandse molen.jpg"
 tags: ["molens", "Hoek van Holland"]
 ---
+{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-nieuwlandse-molen ansicht="de-nieuwlandse-molen" nr=991 >}}
 
 Op 16 juni 1580 werd door de Staten van Holland en West-Friesland aan de
 ingelanden van het Nieuwland en Noordland vergunning verleend tot het

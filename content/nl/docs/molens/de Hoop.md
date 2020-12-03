@@ -6,6 +6,8 @@ title: "de Hoop"
 afbeelding: "/images/bestaandemolens/de Hoop.jpg"
 tags: ["molens", "Maassluis"]
 ---
+{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-hoop/ ansicht="de-hoop" nr=1054 >}}
+
 Korenmolen  "De Hoop"  werd volgens navorsing in de archieven van het
 waterschap Delfland, in 1690 aan de dijk gebouwd. In 1834 wordt er
 gesproken van een run-, pelmolen en later kreeg de molen ook vergunning
@@ -19,5 +21,3 @@ In de loop der jaren is het gaande werk compleet vernieuwd. Er wordt
 regelmatig op woensdagmiddag en op zaterdag gemalen. Ook worden er dan
 producten van de Vlaardingse molen 'Aeolus verkocht. De molen wordt door
 vrijwillige molenaars bediend en onderhouden.
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1054

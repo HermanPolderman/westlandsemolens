@@ -6,6 +6,7 @@ title: "de Korenaer"
 afbeelding: "/images/bestaandemolens/de Korenaer.jpg"
 tags: ["molens", "Loosduinen"]
 ---
+{{< molenheader site=https://www.molendekorenaer.nl ansicht="de-korenaer" nr=1049 >}}
 
 Wanneer Loosduinen precies een korenmolen heeft gekregen is niet bekend.
 Maar de abdij bezat een korenmolen. Deze molen is in 1569 gesloopt, tot
@@ -29,11 +30,9 @@ omgeving van de molen mocht verrijzen. Omstreeks 1956-1957 is de molen
 ook gerestaureerd, waarbij o.a. een nieuwe stelling werd aangebracht.
 Verder was er de verplichting de molen 52 maal per jaar te laten
 draaien. Den Haag breidde steeds meer uit wat tot gevolg had, dat
-normaal functioneren niet meer mogelijk was. In 1980 vond een grote
-restauratie plaats, waarbij o.a. de bovenas werd vernieuwd. Een aantal
+normaal functioneren niet meer mogelijk was. 
+      
+In 1980 vond een grote restauratie plaats, waarbij o.a. de bovenas werd vernieuwd. Een aantal
 jaren later werd een vrijwillig molenaar aangesteld, die de molen
 regelmatig in bedrijf stelt.
 
-eigen website: https://www.molendekorenaer.nl
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1049

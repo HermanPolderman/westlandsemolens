@@ -6,6 +6,7 @@ title: "de Schaapweimolen"
 afbeelding: "/images/bestaandemolens/de Schaapweimolen.jpg"
 tags: ["molens", "Rijswijk"]
 ---
+{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-schaapweimolen/ ansicht="de-schaapweimolen" nr=1098 >}}
 
 Reeds in 1445 is er sprake van windbemaling in het gebied Noord-,
 Plaspoel-,  Schaapweipolder te Rijswijk (Z-H). In 1601 kreeg de
@@ -35,5 +36,3 @@ de sloot, fungeert de molen nu als stand-by in de bemaling van de
 gezamenlijke Hoek-, Plaspoel-, Schaapweipolder, onder beheer van de
 huidige eigenaar : het Hoogheemraadschap van Delfland. De molen is
 regelmatig op zaterdag geopend en gratis te bezichtigen.
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1098

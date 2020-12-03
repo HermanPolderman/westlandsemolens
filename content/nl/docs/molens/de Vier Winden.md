@@ -6,6 +6,7 @@ title: "de Vier Winden"
 afbeelding: "/images/bestaandemolens/de Vier Winden.jpg"
 tags: ["molens", "Monster"]
 ---
+{{< molenheader site=http://www.devierwindenmonster.nl ansicht="de-vier-winden" nr=1062 >}}
 
 Aan de Molenweg op de hoek met de Haagweg staat sinds jaar en dag de uit
 1882 daterende korenmolen van Monster. Lang voor 1882 stond hier op
@@ -46,7 +47,3 @@ buiten gebruik en verkochten die met de bijbehorende gebouwen in 1957
 aan de gemeente Monster. Na verschillende restauraties is de molen weer
 regelmatig in bedrijf. Vanaf 1983 wordt hij bemalen door leden van het
 Gilde van Vrijwillige molenaars.  
-
-eigen website: http://www.devierwindenmonster.nl
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1062

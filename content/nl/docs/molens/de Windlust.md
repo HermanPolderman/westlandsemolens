@@ -6,6 +6,8 @@ title: "de Windlust"
 afbeelding: "/images/bestaandemolens/de Windlust.jpg"
 tags: ["molens", "Wateringen"]
 ---
+{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-windlust/ ansicht="de-windlust-wateringen" nr=1137 >}}
+
 
 Op een archiefstuk uit 1326 is er sprake van een "molle opden mollecamp"
 in Wateringen. In 1574 vernielden de Spanjaarden deze molen. Arnoldus
@@ -52,5 +54,3 @@ volgende verdieping te gaan. Om op de kapzolder te komen klikt u op het
 rondje bij het wiel van het luiwerk. Met dank aan Patrick van der Stap
 voor de panoramafoto's.
 -->
-
-molendatabase: https://www.molendatabase.nl/nederland/molen.php?nummer=1137
