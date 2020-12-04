@@ -8,7 +8,6 @@ tags: ["molens", "Wateringen"]
 ---
 {{< molenheader ansicht="de-windlust-wateringen" nr=1137 >}}
 
-
 Op een archiefstuk uit 1326 is er sprake van een "molle opden mollecamp"
 in Wateringen. In 1574 vernielden de Spanjaarden deze molen. Arnoldus
 van Rhijn wordt 1776 vermeld als molenaar. Hij was een familielid van de

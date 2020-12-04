@@ -1,7 +1,7 @@
 ---
 title: "2008 Schilderwerk Groeneveldse molen"
 date: 2008
-tags: ["restauraties"]
+tags: ["restauraties", "de-groeneveldse"]
 ---
 
 {{< gallery dir="/images/restauraties/2008 Schilderwerk Groeneveldse molen" />}}

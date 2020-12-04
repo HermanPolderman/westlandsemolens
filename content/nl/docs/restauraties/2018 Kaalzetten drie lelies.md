@@ -1,7 +1,7 @@
 ---
 title: "2018 Kaalzetten drie lelies"
 date: 2018
-tags: ["restauraties"]
+tags: ["restauraties", "de-drie-lelies"]
 ---
 
 {{< gallery dir="images/restauraties/2018 Kaalzetten drie lelies" />}}

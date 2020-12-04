@@ -7,8 +7,11 @@ Put this file in /layouts/shortcodes/molendatabasenl.html
 {{- $linkURL := print "https://www.molendatabase.nl/nederland/molen.php?nummer=" ($.Get "nr") }}
 {{- $verdwenenURL := print "https://www.molendatabase.org/molendb.php?step=details&nummer="  ($.Get "verdwenennr") }}
 {{- $afbeelding := ($.Page.Params.afbeelding) }}
+{{- $restauraties := .Site.RegularPages.RelatedTo (keyVals "tags" ($.Get "ansicht"))}}
 
 <table>
+    <img src="{{ $afbeelding }}" width="600" height="600">
+
     {{- if $siteURL }}
         <td><a href="{{ $siteURL }}">Eigen website</a></td>
     {{ end }}
@@ -20,7 +23,14 @@ Put this file in /layouts/shortcodes/molendatabasenl.html
         <td><a href="{{ $verdwenenURL }}">Verdwenen Molen Database</a></td>
     {{ end }}
 
-    <img src="{{ $afbeelding }}" width="600" height="600">
-
 </table>
+
+{{ with $restauraties }}
+    <h3>Restauraties</h3>
+    <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+{{ end }}
 

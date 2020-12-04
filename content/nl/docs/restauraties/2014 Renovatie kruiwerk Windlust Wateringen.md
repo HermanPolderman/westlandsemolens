@@ -1,7 +1,7 @@
 ---
 title: "2014 Renovatie kruiwerk Windlust Wateringen"
 date: 2014
-tags: ["restauraties"]
+tags: ["restauraties", "de-windlust"]
 ---
 
 {{< gallery dir="/images/restauraties/2014 Renovatie kruiwerk Windlust Wateringen" />}}
