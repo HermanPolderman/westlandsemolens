@@ -6,7 +6,7 @@ title: "de Korpershoek"
 afbeelding: "/images/bestaandemolens/de Korpershoek.jpg"
 tags: ["molens", "Schipluiden",]
 ---
-{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-korpershoek/ ansicht="de-korpershoek" nr=1110 >}}
+{{< molenheader ansicht="de-korpershoek" nr=1110 >}}
 
 Ten westen van het dorp Schipluiden staat al sinds eeuwen een
 korenmolen, want al in 1541 wordt melding gemaakt van een korenmolen op

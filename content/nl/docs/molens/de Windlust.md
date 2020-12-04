@@ -6,7 +6,7 @@ title: "de Windlust"
 afbeelding: "/images/bestaandemolens/de Windlust.jpg"
 tags: ["molens", "Wateringen"]
 ---
-{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-windlust/ ansicht="de-windlust-wateringen" nr=1137 >}}
+{{< molenheader ansicht="de-windlust-wateringen" nr=1137 >}}
 
 
 Op een archiefstuk uit 1326 is er sprake van een "molle opden mollecamp"

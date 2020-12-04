@@ -6,8 +6,7 @@ title: "de Wippersmolen"
 afbeelding: "/images/bestaandemolens/de Wippersmolen.jpg"
 tags: ["molens", "Maassluis"]
 ---
-{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-wippersmolen/ ansicht="de-wippersmolen" nr=1055 >}}
-
+{{< molenheader ansicht="de-wippersmolen" nr=1055 >}}
 
 Op 9 November 1725 vond er een ingelandenvergadering plaats aan het
 "Huis ter Lucht"  te Maasland, aangaande de bouw van een nieuwe stenen

@@ -2,6 +2,8 @@
 date: 2019-10-06 
 title: "de Roos"
 author: Heero Pol
+plaats: "Delft"
+afbeelding: "/images/bestaandemolens/de Roos.jpg"
 ---
 {{< molenheader site=http://www.delftsemolen.nl ansicht="de-roos" nr=959 >}}
 

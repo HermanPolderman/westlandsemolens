@@ -6,7 +6,7 @@ title: "de Schaapweimolen"
 afbeelding: "/images/bestaandemolens/de Schaapweimolen.jpg"
 tags: ["molens", "Rijswijk"]
 ---
-{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-schaapweimolen/ ansicht="de-schaapweimolen" nr=1098 >}}
+{{< molenheader ansicht="de-schaapweimolen" nr=1098 >}}
 
 Reeds in 1445 is er sprake van windbemaling in het gebied Noord-,
 Plaspoel-,  Schaapweipolder te Rijswijk (Z-H). In 1601 kreeg de

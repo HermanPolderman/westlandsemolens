@@ -8,7 +8,6 @@ tags: ["molens", "Maasland"]
 ---
 {{< molenheader site=https://www.molendedrielelies.nl ansicht="de-drie-lelies" nr=1052 >}}
 
-
 Sedert ruim twee eeuwen vormt de ronde stenen korenmolen "De Drie
 Lelies" samen met poldermolen "De Dijkmolen" een uniek molenduo aan de
 Molenweg ten noorden van het dorp Maasland. Eigenlijk was het een

@@ -5,10 +5,22 @@ Put this file in /layouts/shortcodes/molendatabasenl.html
 {{- $siteURL := print ($.Get "site") }}
 {{- $ansichtURL := print "/docs/molens-in-ansichten/" ($.Get "ansicht") "-in-oude-ansichten" }}
 {{- $linkURL := print "https://www.molendatabase.nl/nederland/molen.php?nummer=" ($.Get "nr") }}
+{{- $verdwenenURL := print "https://www.molendatabase.org/molendb.php?step=details&nummer="  ($.Get "verdwenennr") }}
+{{- $afbeelding := ($.Page.Params.afbeelding) }}
 
 <table>
-    <td><a href="{{ $siteURL }}">Eigen website</a></td>
+    {{- if $siteURL }}
+        <td><a href="{{ $siteURL }}">Eigen website</a></td>
+    {{ end }}
     <td><a href="{{ $ansichtURL }}">Oude ansichten</a></td>
-    <td><a href="{{ $linkURL }}">Molen Database</a></td>
+    {{- if ($.Get "nr") }}
+        <td><a href="{{ $linkURL }}">Molen Database</a></td>
+    {{ end }}
+    {{- if ($.Get "verdwenennr") }}
+        <td><a href="{{ $verdwenenURL }}">Verdwenen Molen Database</a></td>
+    {{ end }}
+
+    <img src="{{ $afbeelding }}" width="600" height="600">
+
 </table>
 

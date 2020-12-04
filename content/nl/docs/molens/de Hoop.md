@@ -6,7 +6,7 @@ title: "de Hoop"
 afbeelding: "/images/bestaandemolens/de Hoop.jpg"
 tags: ["molens", "Maassluis"]
 ---
-{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-hoop/ ansicht="de-hoop" nr=1054 >}}
+{{< molenheader ansicht="de-hoop" nr=1054 >}}
 
 Korenmolen  "De Hoop"  werd volgens navorsing in de archieven van het
 waterschap Delfland, in 1690 aan de dijk gebouwd. In 1834 wordt er

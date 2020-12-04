@@ -6,7 +6,7 @@ title: "de Groeneveldse molen"
 afbeelding: "/images/bestaandemolens/de Groeneveldse molen.jpg"
 tags: ["molens", "Schipluiden",]
 ---
-{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-groeneveldse-molen/ ansicht="de-groeneveldse" nr=1111 >}}
+{{< molenheader ansicht="de-groeneveldse" nr=1111 >}}
 
 Wanneer de polder een eigen windmolen kreeg is niet bekend. Wel staat
 vast dat in 1445 in de "Oude Lierpolder" een watermolen werd gebouwd,

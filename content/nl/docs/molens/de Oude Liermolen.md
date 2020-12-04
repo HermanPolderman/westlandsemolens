@@ -6,8 +6,7 @@ title: "de Oude Liermolen"
 afbeelding: "/images/bestaandemolens/de Oude Liermolen.jpg"
 tags: ["molens", "de Lier"]
 ---
-
-{{< molenheader site=https://www.westlandsemolens.nl/docs/molens/de-oude-liermolen ansicht="de-oude-liermolen" nr=172 >}}
+{{< molenheader ansicht="de-oude-liermolen" verdwenennr=172 >}}
 
 De bemaling van de Oude Lierpolder dateert van 1445, want in het oudste
 keurboekje van het Hoogheemraadschap van Delfland wordt er melding
