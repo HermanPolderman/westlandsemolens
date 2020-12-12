@@ -1,5 +1,5 @@
 ---
-title: "2015 Restauratie middenzolder oude Liermolen"
+title: "2020 Restauratie middenzolder oude Liermolen"
 date: 2020-12-04
 tags: ["restauraties", "de-oude-liermolen"]
 ---
