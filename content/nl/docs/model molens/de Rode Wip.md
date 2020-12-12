@@ -3,8 +3,7 @@ date: 2019
 plaats: "Schipluiden"
 naam: "de Rode wip"
 title: "de Rode wip"
-afbeelding: "/images/Groeneveldse molen 2013.jpg"
+afbeelding: "/images/modelmolens/de-rode-wip/de-rode-wip.jpg"
 tags: ["Schipluiden", "modelmolens"]
 ---
-
-https://www.molendatabase.net/detail.php?dbnr=4043
+{{< modelmolenheader ansicht="de-rode-wip" nr=4043 >}}

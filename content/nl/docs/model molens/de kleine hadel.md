@@ -3,8 +3,7 @@ date: 2019
 plaats: "Schipluiden"
 naam: "de kleine Hadel"
 title: "de kleine Hadel"
-afbeelding: "/images/Groeneveldse molen 2013.jpg"
+afbeelding: "/images/modelmolens/de-kleine-hadel/de-kleine-hadel.jpg"
 tags: ["Schipluiden", "modelmolens"]
 ---
-
-https://www.molendatabase.net/detail.php?dbnr=4041
+{{< modelmolenheader ansicht="de-kleine-hadel" nr=4041 >}}

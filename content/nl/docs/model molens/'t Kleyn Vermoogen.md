@@ -3,8 +3,7 @@ date: 2019-12-15
 plaats: "Schipluiden"
 naam: "'t Kleyn Vermoogen"
 title: "'t Kleyn Vermoogen"
-afbeelding: "/images/Groeneveldse molen 2013.jpg"
+afbeelding: "/images/modelmolens/het-kleyn-vermoogen/het-kleyn-vermoogen-2020.jpg"
 tags: ["Schipluiden", "modelmolens"]
 ---
-
-https://www.molendatabase.net/detail.php?dbnr=3789
+{{< modelmolenheader ansicht="het-kleyn-vermoogen" nr=3789 >}}

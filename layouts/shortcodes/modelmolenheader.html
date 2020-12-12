@@ -1,0 +1,28 @@
+<!--
+Put this file in /layouts/shortcodes/molendatabasenl.html
+-->
+
+{{- $siteURL := print ($.Get "site") }}
+{{- $linkURL := print "https://www.molendatabase.net/detail.php?dbnr=" ($.Get "nr") }}
+{{- $afbeelding := ($.Page.Params.afbeelding) }}
+{{- $restauraties := .Site.RegularPages.RelatedTo (keyVals "tags" ($.Get "ansicht"))}}
+
+<table>
+    <img src="{{ $afbeelding }}" width="600" height="600">
+    {{- if $siteURL }}
+        <td><a href="{{ $siteURL }}">Eigen website</a></td>
+    {{ end }}
+    {{- if ($.Get "nr") }}
+        <td><a href="{{ $linkURL }}">Molen Database</a></td>
+    {{ end }}
+
+</table>
+
+{{ with $restauraties }}
+    <h3>Restauraties</h3>
+    <ul>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+{{ end }}
