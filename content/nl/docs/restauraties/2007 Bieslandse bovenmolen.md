@@ -4,5 +4,5 @@ date: 2007
 tags: ["restauraties"]
 ---
 
-{{< gallery dir="/images/restauraties/2007 Bieslandse bovenmolen" />}}
+{{< gallery dir="images/restauraties/2007 Bieslandse bovenmolen" />}}
 {{< load-photoswipe >}}

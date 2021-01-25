@@ -4,5 +4,5 @@ date: 2008
 tags: ["restauraties", "de-dijkmolen"]
 ---
 
-{{< gallery dir="/images/restauraties/2008 Schilderwerk Dijkmolen" />}}
+{{< gallery dir="images/restauraties/2008 Schilderwerk Dijkmolen" />}}
 {{< load-photoswipe >}}

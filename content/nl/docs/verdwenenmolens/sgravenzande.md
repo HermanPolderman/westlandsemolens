@@ -7,9 +7,9 @@ afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
 
-{{< gallery dir="/images/verdwenenmolens/'s-Gravenzande" //>}}
+{{< gallery dir="images/verdwenenmolens/'s-Gravenzande" //>}}
 
 de Poelmolen
-{{< gallery dir="/images/verdwenenmolens/'s-Gravenzande/de Poelmolen" //>}}
+{{< gallery dir="images/verdwenenmolens/'s-Gravenzande/de Poelmolen" //>}}
 
 {{< load-photoswipe >}}

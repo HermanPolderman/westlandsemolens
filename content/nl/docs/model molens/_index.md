@@ -5,4 +5,4 @@ afbeelding: "/images/Vlag_Westland.png"
 weight: 20
 ---
 
-{{< molens fotos="/images/modelmolens" docs="/docs/model-molens" //>}}
+{{< molens fotos="images/modelmolens" docs="/docs/model-molens" //>}}

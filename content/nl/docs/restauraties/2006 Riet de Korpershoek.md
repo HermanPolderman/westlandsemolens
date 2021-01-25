@@ -4,5 +4,5 @@ date: 2006
 tags: ["restauraties", "de-korpershoek"]
 ---
 
-{{< gallery dir="/images/restauraties/2006 Riet de Korpershoek" />}}
+{{< gallery dir="images/restauraties/2006 Riet de Korpershoek" />}}
 {{< load-photoswipe >}}

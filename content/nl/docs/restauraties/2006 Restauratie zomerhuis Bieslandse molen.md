@@ -4,5 +4,5 @@ date: 2006
 tags: ["restauraties"]
 ---
 
-{{< gallery dir="/images/restauraties/2006 Restauratie zomerhuis Bieslandse molen" />}}
+{{< gallery dir="images/restauraties/2006 Restauratie zomerhuis Bieslandse molen" />}}
 {{< load-photoswipe >}}

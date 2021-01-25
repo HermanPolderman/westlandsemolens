@@ -4,5 +4,5 @@ date: 2009
 tags: ["restauraties", "de-roos"]
 ---
 
-{{< gallery dir="/images/restauraties/2009 Werkzaamheden de Roos" />}}
+{{< gallery dir="images/restauraties/2009 Werkzaamheden de Roos" />}}
 {{< load-photoswipe >}}

@@ -7,6 +7,6 @@ tags: ["verdwenenmolens"]
 ---
 
 korenmolen
-{{< gallery dir="/images/verdwenenmolens/Honselersdijk/korenmolen" //>}}
+{{< gallery dir="images/verdwenenmolens/Honselersdijk/korenmolen" //>}}
 
 {{< load-photoswipe >}}

@@ -5,6 +5,6 @@ echo "date: ${array[0]}" >> $1.md
 echo "tags: [\"restauraties\"]" >> $1.md
 echo "---" >> $1.md
 echo "" >> $1.md
-echo "{{< gallery dir=\"/images/restauraties/$1\" />}}" >> $1.md
+echo "{{< gallery dir=\"images/restauraties/$1\" />}}" >> $1.md
 
 

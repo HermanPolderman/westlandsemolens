@@ -4,5 +4,5 @@ date: 2011
 tags: ["restauraties", "de-hoop"]
 ---
 
-{{< gallery dir="/images/restauraties/2011 Steken roede de Hoop" />}}
+{{< gallery dir="images/restauraties/2011 Steken roede de Hoop" />}}
 {{< load-photoswipe >}}

@@ -8,6 +8,6 @@ tags: ["verdwenenmolens"]
 ---
 
 korenmolen Westerlee
-{{< gallery dir="/images/verdwenenmolens/Westerlee/korenmolen Westerlee" //>}}
+{{< gallery dir="images/verdwenenmolens/Westerlee/korenmolen Westerlee" //>}}
 
 {{< load-photoswipe >}}

@@ -4,5 +4,5 @@ date: 2011
 tags: ["restauraties", "de-hoop"]
 ---
 
-{{< gallery dir="/images/restauraties/2011 de Hoop" />}}
+{{< gallery dir="images/restauraties/2011 de Hoop" />}}
 {{< load-photoswipe >}}

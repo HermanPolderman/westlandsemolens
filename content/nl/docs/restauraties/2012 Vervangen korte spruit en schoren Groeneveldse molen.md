@@ -4,5 +4,5 @@ date: 2012
 tags: ["restauraties", "de-groeneveldse"]
 ---
 
-{{< gallery dir="/images/restauraties/2012 Vervangen korte spruit en schoren Groeneveldse molen" />}}
+{{< gallery dir="images/restauraties/2012 Vervangen korte spruit en schoren Groeneveldse molen" />}}
 {{< load-photoswipe >}}

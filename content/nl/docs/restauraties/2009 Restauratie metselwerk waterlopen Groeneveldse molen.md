@@ -4,5 +4,5 @@ date: 2009
 tags: ["restauraties", "de-groeneveldse"]
 ---
 
-{{< gallery dir="/images/restauraties/2009 Restauratie metselwerk waterlopen Groeneveldse molen" />}}
+{{< gallery dir="images/restauraties/2009 Restauratie metselwerk waterlopen Groeneveldse molen" />}}
 {{< load-photoswipe >}}

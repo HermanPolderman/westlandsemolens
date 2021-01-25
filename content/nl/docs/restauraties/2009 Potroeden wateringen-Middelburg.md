@@ -4,5 +4,5 @@ date: 2009
 tags: ["restauraties"]
 ---
 
-{{< gallery dir="/images/restauraties/2009 Potroeden wateringen-Middelburg" />}}
+{{< gallery dir="images/restauraties/2009 Potroeden wateringen-Middelburg" />}}
 {{< load-photoswipe >}}

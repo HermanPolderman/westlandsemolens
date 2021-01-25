@@ -7,5 +7,5 @@ afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
 
-{{< gallery dir="/images/verdwenenmolens/Voorburg" //>}}
+{{< gallery dir="images/verdwenenmolens/Voorburg" //>}}
 {{< load-photoswipe >}}

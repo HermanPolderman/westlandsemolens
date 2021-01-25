@@ -4,5 +4,5 @@ date: 2010
 tags: ["restauraties", "de-dijkmolen"]
 ---
 
-{{< gallery dir="/images/restauraties/2010 de Dijkmolen vervangen scheprad" />}}
+{{< gallery dir="images/restauraties/2010 de Dijkmolen vervangen scheprad" />}}
 {{< load-photoswipe >}}

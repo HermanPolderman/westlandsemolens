@@ -4,5 +4,5 @@ date: 2013
 tags: ["restauraties", "de-groeneveldse"]
 ---
 
-{{< gallery dir="/images/restauraties/2013 Ombouw gemaal" />}}
+{{< gallery dir="images/restauraties/2013 Ombouw gemaal" />}}
 {{< load-photoswipe >}}
