@@ -16,7 +16,7 @@
             leafletMarkersObj[{{ $markerId }}] = L.marker([{{ $markerLat }}, {{ $markerLon }}]).addTo(leafletMapsObj[{{ $mapId }}]);
 
             {{ if $markerContent }}
-                leafletMarkersObj[{{ $markerId }}].bindPopup("{{ $markerContent }}").openPopup();
+                leafletMarkersObj[{{ $markerId }}].bindPopup("{{ $markerContent }}");
             {{ end }}
         </script>
 

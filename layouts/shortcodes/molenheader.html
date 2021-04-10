@@ -22,7 +22,9 @@ Put this file in /layouts/shortcodes/molenheader.html
     {{- if ($.Get "verdwenennr") }}
         <td><a href="{{ $verdwenenURL }}">Verdwenen Molen Database</a></td>
     {{ end }}
-
+    {{- if ($.Get "voorganger") }}
+        <td><a href="/docs/verdwenenmolens/{{ $.Get "voorganger" }}">Voorganger: {{ $.Get "voorganger" }}</a></td>
+    {{ end }}
 </table>
 
 {{ with $restauraties }}

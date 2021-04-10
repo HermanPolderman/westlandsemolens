@@ -5,7 +5,7 @@ author: Heero Pol
 plaats: "Delft"
 afbeelding: "/images/bestaandemolens/de Roos.jpg"
 ---
-{{< molenheader site=http://www.delftsemolen.nl ansicht="de-roos" nr=959 >}}
+{{< molenheader site=http://www.delftsemolen.nl ansicht="de-roos" voorganger="delft/de-bordeelmolen" nr=959 >}}
 
 Molen de Roos is een typische stadsmolen; de molen staat op een onderbouw van 12 meter hoog om bij het draaien geen last
 te hebben van windbeperking door de omliggende stadsbebouwing. De molen zelf is een stenen bovenbuitenkruier met

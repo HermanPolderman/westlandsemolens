@@ -8,5 +8,14 @@ Put this file in /layouts/shortcodes/verdwenenmolenheader.html
     {{- if ($.Get "verdwenennr") }}
         <td><a href="{{ $verdwenenURL }}">Verdwenen Molen Database</a></td>
     {{ end }}
+    {{- if ($.Get "voorganger") }}
+        <td><a href="../{{ $.Get "voorganger" }}">Voorganger: {{ $.Get "voorganger" }}</a></td>
+    {{ end }}
+    {{- if ($.Get "opvolger") }}
+        <td><a href="../{{ $.Get "opvolger" }}">Opvolger: {{ $.Get "opvolger" }}</a></td>
+    {{ end }}
+    {{- if ($.Get "bestaande") }}
+        <td><a href="/docs/molens/{{ $.Get "bestaande" }}">Bestaande molen: {{ $.Get "bestaande" }}</a></td>
+    {{ end }}
 </table>
 
