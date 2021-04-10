@@ -1,0 +1,12 @@
+<!--
+Put this file in /layouts/shortcodes/verdwenenmolenheader.html
+-->
+
+{{- $verdwenenURL := print "https://www.molendatabase.org/molendb.php?step=details&nummer="  ($.Get "verdwenennr") }}
+
+<table>
+    {{- if ($.Get "verdwenennr") }}
+        <td><a href="{{ $verdwenenURL }}">Verdwenen Molen Database</a></td>
+    {{ end }}
+</table>
+
