@@ -1,11 +1,10 @@
 ---
-plaats: "Delft"
+plaats: "Schipluiden"
 naam: "de Kerkpoldermolen"
 title: "de Kerkpoldermolen"
-afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
 {{< verdwenenmolenheader verdwenennr="3647" >}}
-{{< gallery dir="images/verdwenenmolens/Delft/de Kerkpoldermolen" //>}}
+{{< gallery dir="images/verdwenenmolens/Schipluiden/Kerkpolder" //>}}
 
 {{< load-photoswipe >}}
