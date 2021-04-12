@@ -2,7 +2,7 @@
 plaats: "Schipluiden"
 naam: "de Korpershoek (afgebrand)"
 title: "de Korpershoek (afgebrand)"
-tags: ["verdwenenmolens"]
+tags: ["verdwenen", "verdwenen-schipluiden"]
 lat: 51.973206 
 lon: 4.310335
 ---

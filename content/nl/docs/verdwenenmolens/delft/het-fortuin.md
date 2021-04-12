@@ -2,8 +2,9 @@
 plaats: "Delft"
 naam: "het Fortuin"
 title: "het Fortuin"
-afbeelding: "/images/.jpg"
-tags: ["verdwenenmolens"]
+tags: ["verdwenen", "verdwenen-delft"]
+lat: 52.019782 
+lon: 4.348830
 ---
 {{< verdwenenmolenheader verdwenennr="03504+A" voorganger="de-slikmolen">}}
 

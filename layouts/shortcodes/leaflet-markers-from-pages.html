@@ -1,0 +1,28 @@
+{{ if .IsNamedParams }}
+    {{ $markers := .Site.RegularPages.RelatedTo (keyVals "tags" ($.Get "verdwenen"))}}
+    {{ with .Parent }}
+        {{ $mapLat := default "" (.Get "mapLat") }}
+        {{ $mapLon := default "" (.Get "mapLon") }}
+        {{ $mapId := default (md5 (printf "%s%s" $mapLat $mapLon)) (.Get "mapId") }}
+        <script>
+            //Markers
+            {{ with $markers }}
+                {{ range . }}
+                    {{ $markerLat := .Page.Params.lat }}
+                    {{ $markerLon := .Page.Params.lon }}
+                    {{ $markerId := md5 (printf "%s%s%s" $mapId $markerLat $markerLon)}}
+                    leafletMarkersObj[{{ $markerId }}] = L.marker([{{ $markerLat }}, {{ $markerLon }}]).addTo(leafletMapsObj[{{ $mapId }}]);
+                    leafletMarkersObj[{{ $markerId }}].bindPopup("<a href={{ .RelPermalink }}>{{ .Title }}</a>");
+                {{ end }}
+            {{ end }}
+        </script>
+    {{ else }}
+        {{ errorf "Leaflet Hugo Shortcode: impossible using marker outside leaflet-map" }}
+    {{ end }}
+
+{{ else }}
+    {{ errorf "Leaflet Hugo Shortcode: please provide named Parameters for marker" }}
+{{ end }}
+
+
+

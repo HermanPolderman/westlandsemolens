@@ -2,7 +2,7 @@
 plaats: "Schipluiden"
 naam: "de vSlinkslootmolen"
 title: "de Slinkslootmolen"
-tags: ["verdwenenmolens"]
+tags: ["verdwenen", "verdwenen-schipluiden"]
 lat: 51.947426
 lon: 4.321208
 ---

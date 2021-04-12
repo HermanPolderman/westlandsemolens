@@ -2,8 +2,9 @@
 plaats: "Delft"
 naam: "de Groenmolen"
 title: "de Groenmolen"
-afbeelding: "/images/.jpg"
-tags: ["verdwenenmolens"]
+tags: ["verdwenen", "verdwenen-delft"]
+lat: 52.005603 
+lon: 4.359674
 ---
 {{< verdwenenmolenheader verdwenennr="905" >}}
 {{< gallery dir="images/verdwenenmolens/Delft/de Groenmolen later Sprangmolen" //>}}
