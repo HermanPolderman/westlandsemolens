@@ -4,17 +4,8 @@ naam: "den Hoorn"
 title: "den Hoorn"
 tags: ["verdwenenmolens"]
 ---
+{{< leaflet-loader >}}
+{{< leaflet-map zoom="13" mapLat="52.004713" mapLon="4.339333" >}}
+{{< leaflet-markers-from-pages verdwenen="verdwenen-den-hoorn">}}
+{{< /leaflet-map >}}
 
-Harnaschpolder
-{{< gallery dir="images/verdwenenmolens/den Hoorn/Harnaschpolder" //>}}
-
-Molen van de Voordijkshoonse polder of de molen van Stap
-{{< gallery dir="images/verdwenenmolens/den Hoorn/Molen van de Voordijkshoonse polder of de molen van Stap" //>}}
-
-Woudsche droogmakerij
-Zie [Schipluiden]
-
-Zaagmolen het Fortuin
-{{< gallery dir="images/verdwenenmolens/den Hoorn/Zaagmolen het Fortuin" //>}}
-
-{{< load-photoswipe >}}

@@ -4,13 +4,7 @@ naam: "Delfgauw"
 title: "Delfgauw"
 tags: ["verdwenenmolens"]
 ---
-
-de Bieslandse Bovenmolen
-{{< molendatabaseorg nr=83 >}}
-{{< gallery dir="images/verdwenenmolens/Delfgauw/de Bieslandse Bovenmolen" //>}}
-
-de Kooltuin molen
-{{< molendatabaseorg nr=1903 >}}
-{{< gallery dir="images/verdwenenmolens/Delfgauw/Kooltuinmolen" //>}}
-
-{{< load-photoswipe >}}
+{{< leaflet-loader >}}
+{{< leaflet-map zoom="13" mapLat="52.015811" mapLon="4.373819" >}}
+{{< leaflet-markers-from-pages verdwenen="verdwenen-delfgauw">}}
+{{< /leaflet-map >}}

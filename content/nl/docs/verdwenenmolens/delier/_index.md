@@ -4,9 +4,7 @@ naam: "de Lier"
 title: "de Lier"
 tags: ["verdwenenmolens"]
 ---
-
-de Hoefpoldermolen
-{{< gallery dir="images/verdwenenmolens/de Lier/de Hoefpoldermolen" //>}}
-oude Lierpolder
-{{< gallery dir="images/verdwenenmolens/de Lier/oude Lierpolder" //>}}
-{{< load-photoswipe >}}
+{{< leaflet-loader >}}
+{{< leaflet-map zoom="13" mapLat="51.972033" mapLon="4.243254" >}}
+{{< leaflet-markers-from-pages verdwenen="verdwenen-de-lier">}}
+{{< /leaflet-map >}}
