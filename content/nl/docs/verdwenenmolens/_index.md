@@ -5,6 +5,6 @@ afbeelding: "/images/Vlag_Westland.png"
 weight: 30
 ---
 {{< leaflet-loader >}}
-{{< leaflet-map zoom="11" mapLat="52.022749" mapLon="4.351308" >}}
+{{< leaflet-map zoom="10" mapLat="52.022749" mapLon="4.45" >}}
     {{< leaflet-markers-from-pages verdwenen="verdwenen">}}
 {{< /leaflet-map >}}
