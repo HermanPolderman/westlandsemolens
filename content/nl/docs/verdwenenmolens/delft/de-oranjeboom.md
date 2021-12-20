@@ -1,7 +1,7 @@
 ---
 plaats: "Delft"
-naam: "de Oranjeboom"
-title: "de Oranjeboom"
+naam: "de Oranjeboom vh de Helmolen"
+title: "de Oranjeboom vh de Helmolen"
 tags: ["verdwenen", "verdwenen-delft"]
 lat: 52.015639 
 lon: 4.349960

@@ -3,7 +3,7 @@ plaats: "Delft"
 naam: "de Bordeelmolen"
 title: "de Bordeelmolen"
 tags: ["verdwenen", "verdwenen-delft"]
-lat: 52.013996 
+lat: 52.013996
 lon: 4.351280
 ---
 {{< verdwenenmolenheader verdwenennr="4542" bestaande="de-roos">}}

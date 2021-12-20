@@ -1,7 +1,7 @@
 ---
 plaats: "Delft"
-naam: "Diversen"
-title: "Diversen"
+naam: "diversen"
+title: "diversen"
 ---
 
 {{< gallery dir="images/verdwenenmolens/Delft/diverse" //>}}
