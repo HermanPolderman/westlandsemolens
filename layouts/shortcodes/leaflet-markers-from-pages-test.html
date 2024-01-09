@@ -1,0 +1,20 @@
+{{ if .IsNamedParams }}
+    <div>start {{ $.Get "verdwenen" }}</div>
+    {{ $markers := .Site.RegularPages.RelatedTo (keyVals "tags" ($.Get "verdwenen"))}}
+    {{ with $markers }}
+        <ul>
+        {{ range . }}
+            {{ $markerLat := .Page.Params.lat }}
+            {{ $markerLon := .Page.Params.lon }}
+            {{ $markerId :=  (printf "%s %s" $markerLat $markerLon) }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}{{ $markerId }}</a></li>
+        {{ end }}
+        </ul>
+    {{ end }}
+    <div>end</div>
+{{ else }}
+    {{ errorf "Leaflet Hugo Shortcode: please provide named Parameters for marker" }}
+{{ end }}
+
+
+

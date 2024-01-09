@@ -2,7 +2,6 @@
 plaats: "Loosduinen"
 naam: "Loosduinen"
 title: "Loosduinen"
-afbeelding: "/images/.jpg"
 tags: ["verdwenenmolens"]
 ---
 
