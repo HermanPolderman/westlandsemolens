@@ -4,7 +4,7 @@ title = "Westlandse Molens"
 enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
-theme = ["docsy"]
+theme = ["github.com/google/docsy"]
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
@@ -54,6 +54,7 @@ anchor = "smart"
 [languages]
 [languages.nl]
 title = "Westlandse Molens"
+[languages.nl.params]
 description = "Informatie over bestaande en verdwenen molens in het Westland en omstreken"
 languageName ="Nederlands"
 # Weight used for sorting.
