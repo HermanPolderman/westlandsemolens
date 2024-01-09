@@ -16,7 +16,7 @@ defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 # Highlighting config
 pygmentsCodeFences = true
@@ -92,7 +92,7 @@ github_repo = "https://github.com/HermanPolderman/westlandsemolens"
 gcs_engine_id = "001612955446005139674:r7yag8u9qoj"
 
 # Enable Algolia DocSearch
-algolia_docsearch = false
+#search.algolia = false
 
 # Enable Lunr.js offline search
 offlineSearch = false
