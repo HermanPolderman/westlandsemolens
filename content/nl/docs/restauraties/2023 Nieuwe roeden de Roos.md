@@ -1,6 +1,6 @@
 ---
 title: "2023 Nieuwe roeden de Roos"
-date: 2023-07-01
+date: 2023-04-17
 tags: ["restauraties", "de-roos"]
 ---
 
