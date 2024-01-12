@@ -1,3 +1,4 @@
-rm -Rf ./resources
-rm -Rf ./public
-hugo -e production && rsync -avz --delete public/ herman@vps.polderman.net:/var/www/www.westlandsemolens.nl/
+sudo ./buildUsingDocker
+-sudo chown -R herman *
+-sudo chgrp -R herman *
+-rsync -avz --delete public/ /var/www/www.westlandsemolens.nl/
