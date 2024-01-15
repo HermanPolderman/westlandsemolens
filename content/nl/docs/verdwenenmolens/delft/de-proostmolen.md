@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Proostmolen / Oude Heintgesmolen"
 title: "de Proostmolen / Oude Heintgesmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.016326
 lon: 4.351503
 ---

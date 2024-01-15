@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Pauwmolen"
 title: "de Pauwmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.005998 
 lon: 4.382546
 ---

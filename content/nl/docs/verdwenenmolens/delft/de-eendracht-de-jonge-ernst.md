@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Eendracht vh De Jonge Ernst"
 title: "de Eendracht vh De Jonge Ernst"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.015457 
 lon: 4.348726
 ---

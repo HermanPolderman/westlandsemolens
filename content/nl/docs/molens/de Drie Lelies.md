@@ -4,7 +4,7 @@ plaats: "Maasland"
 naam: "de Drie Lelies"
 title: "de Drie Lelies"
 afbeelding: "/images/bestaandemolens/de Drie Lelies.jpg"
-tags: ["molens", "Maasland"]
+tags: ["molens", "Maasland", "de Drie Lelies"]
 ---
 {{< molenheader site=https://www.molendedrielelies.nl ansicht="de-drie-lelies" nr=1052 >}}
 

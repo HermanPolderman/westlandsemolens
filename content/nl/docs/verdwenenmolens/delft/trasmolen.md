@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "trasmolen op de Oostenrijkse Toren"
 title: "trasmolen op de Oostenrijkse Toren"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.006740
 lon: 4.363304
 ---

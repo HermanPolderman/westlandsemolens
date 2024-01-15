@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Bordeelmolen"
 title: "de Bordeelmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.013996
 lon: 4.351280
 ---

@@ -4,7 +4,7 @@ plaats: "Maassluis"
 naam: "de Hoop"
 title: "de Hoop"
 afbeelding: "/images/bestaandemolens/de Hoop.jpg"
-tags: ["molens", "Maassluis"]
+tags: ["molens", "Maassluis", "de Hoop"]
 ---
 {{< molenheader ansicht="de-hoop" nr=1054 >}}
 

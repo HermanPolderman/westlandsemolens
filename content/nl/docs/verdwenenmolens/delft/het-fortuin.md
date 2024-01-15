@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "het Fortuin"
 title: "het Fortuin"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.019782 
 lon: 4.348830
 ---

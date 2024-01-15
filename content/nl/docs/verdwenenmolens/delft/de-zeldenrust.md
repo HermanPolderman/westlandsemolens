@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Zeldenrust vh Langendijksemolen"
 title: "de Zeldenrust vh Langendijksemolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.013701 
 lon: 4.364791
 ---

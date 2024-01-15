@@ -1,7 +1,7 @@
 ---
 date: 2019-10-06
 title: "de Dijkmolen in oude ansichten"
-author: Herman Polderman
+tags: ["ansichten", "Maasland", "de Dijkmolen"]
 ---
 {{< gallery dir="images/ansichten/de Dijkmolen" //>}}
 

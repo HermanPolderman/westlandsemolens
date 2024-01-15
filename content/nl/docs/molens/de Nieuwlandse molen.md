@@ -4,7 +4,7 @@ plaats: "Hoek van Holland"
 naam: "de Nieuwlandse molen"
 title: "de Nieuwlandse molen"
 afbeelding: "/images/bestaandemolens/de Nieuwlandse molen.jpg"
-tags: ["molens", "Hoek van Holland"]
+tags: ["molens", "Hoek van Holland", "de Nieuwlandse molen"]
 ---
 {{< molenheader ansicht="de-nieuwlandse-molen" nr=991 >}}
 

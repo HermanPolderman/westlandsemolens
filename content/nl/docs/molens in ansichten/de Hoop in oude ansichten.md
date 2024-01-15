@@ -1,7 +1,7 @@
 ---
 date: 2019-10-06
 title: "de Hoop in oude ansichten"
-author: Herman Polderman
+tags: ["ansichten", "Maassluis", "de Hoop"]
 ---
 {{< gallery dir="images/ansichten/de Hoop" //>}}
 

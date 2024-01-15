@@ -1,7 +1,7 @@
 ---
 date: 2019-10-06
 title: "de Groeneveldse in oude ansichten"
-author: Herman Polderman
+tags: ["ansichten", "Schipluiden", "de Groeneveldse"]
 ---
 {{< gallery dir="images/ansichten/de Groeneveldse" //>}}
 

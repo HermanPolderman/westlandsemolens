@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Duyvelsgatmolen"
 title: "de Duyvelsgatmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.017832
 lon: 4.359146
 ---

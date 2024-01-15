@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Papegaay"
 title: "de Papegaay"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.007102 
 lon: 4.351308
 ---

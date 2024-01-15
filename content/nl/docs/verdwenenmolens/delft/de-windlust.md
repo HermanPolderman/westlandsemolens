@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Windlust"
 title: "de Windlust"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.012630
 lon: 4.366665
 ---

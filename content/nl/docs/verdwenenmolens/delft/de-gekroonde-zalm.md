@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Gekroonde zalm"
 title: "de Gekroonde zalm"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.001610 
 lon: 4.342187
 ---

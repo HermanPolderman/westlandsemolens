@@ -4,7 +4,7 @@ plaats: "Maasland"
 naam: "de Dijkmolen"
 title: "de Dijkmolen"
 afbeelding: "/images/bestaandemolens/de Dijkmolen.jpg"
-tags: ["molens", "Maasland"]
+tags: ["molens", "Maasland", "de Dijkmolen"]
 ---
 {{< molenheader ansicht="de-dijkmolen" nr=1053 >}}
 

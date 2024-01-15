@@ -2,7 +2,6 @@
 plaats: "Naaldwijk"
 naam: "Naaldwijk"
 title: "Naaldwijk"
-tags: ["verdwenenmolens"]
 ---
 
 {{< gallery dir="images/verdwenenmolens/Naaldwijk" //>}}

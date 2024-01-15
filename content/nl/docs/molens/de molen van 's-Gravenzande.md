@@ -4,7 +4,7 @@ plaats: "Monster"
 naam: "de molen van 's-Gravenzande"
 title: "de molen van 's-Gravenzande"
 afbeelding: "/images/bestaandemolens/de molen van 's-Gravenzande.jpg"
-tags: ["molens", "Monster"]
+tags: ["molens", "s-Gravenzande", "de molen van 's-Gravenzande"]
 ---
 {{< molenheader site=https://www.molenvansgravenzande.nl ansicht="de-molen-van-s-gravenzande" nr=937 >}}
 

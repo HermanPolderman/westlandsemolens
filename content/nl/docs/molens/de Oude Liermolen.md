@@ -4,7 +4,7 @@ plaats: "de Lier"
 naam: "de Oude Liermolen"
 title: "de Oude Liermolen"
 afbeelding: "/images/bestaandemolens/de Oude Liermolen.jpg"
-tags: ["molens", "de Lier"]
+tags: ["molens", "de Lier", "de Oude Liermolen"]
 ---
 {{< molenheader ansicht="de-oude-liermolen" verdwenennr=172 voorganger="delier/oude-lierpolder">}}
 

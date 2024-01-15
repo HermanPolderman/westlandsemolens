@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Korenmolen"
 title: "de Korenmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.007559 
 lon: 4.352157
 ---

@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "standaardmolen aan de Vliet"
 title: "standaardmolen aan de Vliet"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.018107
 lon: 4.351593
 ---

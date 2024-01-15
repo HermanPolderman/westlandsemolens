@@ -1,7 +1,7 @@
 ---
 date: 2019-10-06
 title: "de Korenaer in oude ansichten"
-author: Herman Polderman
+tags: ["ansichten", "Loosduinen", "de Korenaer"]
 ---
 {{< gallery dir="images/ansichten/de Korenaer" //>}}
 

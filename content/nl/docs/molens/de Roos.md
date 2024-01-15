@@ -4,6 +4,7 @@ title: "de Roos"
 author: Heero Pol
 plaats: "Delft"
 afbeelding: "/images/bestaandemolens/de Roos.jpg"
+tags: ["molens", "Delft", "de Roos"]
 ---
 {{< molenheader site=http://www.molenderoos.nl ansicht="de-roos" voorganger="delft/de-bordeelmolen" nr=959 >}}
 

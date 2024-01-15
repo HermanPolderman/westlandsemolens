@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "molen aan 't verlaat"
 title: "molen aan 't verlaat"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.024552 
 lon: 4.374320
 ---

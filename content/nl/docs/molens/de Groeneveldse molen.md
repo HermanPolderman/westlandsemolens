@@ -4,7 +4,7 @@ plaats: "Schipluiden"
 naam: "de Groeneveldse molen"
 title: "de Groeneveldse molen"
 afbeelding: "/images/bestaandemolens/de Groeneveldse molen.jpg"
-tags: ["molens", "Schipluiden",]
+tags: ["molens", "Schipluiden", "de Groeneveldse"]
 ---
 {{< molenheader ansicht="de-groeneveldse" nr=1111 >}}
 

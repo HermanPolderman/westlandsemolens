@@ -4,7 +4,7 @@ plaats: "Wateringen"
 naam: "de Windlust"
 title: "de Windlust"
 afbeelding: "/images/bestaandemolens/de Windlust.jpg"
-tags: ["molens", "Wateringen"]
+tags: ["molens", "Wateringen", "de Windlust"]
 ---
 {{< molenheader ansicht="de-windlust-wateringen" nr=1137 >}}
 

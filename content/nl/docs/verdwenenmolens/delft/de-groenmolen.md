@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Groenmolen"
 title: "de Groenmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.005603 
 lon: 4.359674
 ---

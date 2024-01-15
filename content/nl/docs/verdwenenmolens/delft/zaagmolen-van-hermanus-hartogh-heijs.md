@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "zaagmolen van Hermanus Hartogh Heijs"
 title: "zaagmolen van Hermanus Hartogh Heijs"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.006247
 lon: 4.348051
 ---

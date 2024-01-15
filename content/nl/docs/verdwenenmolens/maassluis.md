@@ -2,7 +2,6 @@
 plaats: "Maassluis"
 naam: "Maassluis"
 title: "Maassluis"
-tags: ["verdwenenmolens"]
 ---
 
 de Arend

@@ -4,7 +4,7 @@ plaats: "Maassluis"
 naam: "de Wippersmolen"
 title: "de Wippersmolen"
 afbeelding: "/images/bestaandemolens/de Wippersmolen.jpg"
-tags: ["molens", "Maassluis"]
+tags: ["molens", "Maassluis", "Wippersmolen"]
 ---
 {{< molenheader ansicht="de-wippersmolen" nr=1055 >}}
 

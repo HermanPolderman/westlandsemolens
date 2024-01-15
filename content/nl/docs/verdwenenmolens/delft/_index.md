@@ -2,7 +2,6 @@
 title: "Delft"
 date: 2017-03-02T12:00:00-05:00
 weight: 30
-tags: ["verdwenenmolens-delft"]
 ---
 [Molenwereld 133 2010: VERDWENEN MOLENS tussen Delft en Den Hoorn](https://www.molenwereld.com/assets/files/nr-133-januari-2010.pdf)
 

@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Steckmolen"
 title: "de Steckmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.013595 
 lon: 4.351653
 ---

@@ -4,7 +4,7 @@ plaats: "Loosduinen"
 naam: "de Korenaer"
 title: "de Korenaer"
 afbeelding: "/images/bestaandemolens/de Korenaer.jpg"
-tags: ["molens", "Loosduinen"]
+tags: ["molens", "Loosduinen", "de Korenaer"]
 ---
 {{< molenheader site=https://www.molendekorenaer.nl ansicht="de-korenaer" nr=1049 >}}
 

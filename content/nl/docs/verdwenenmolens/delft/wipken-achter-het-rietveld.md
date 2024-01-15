@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "wipken achter het Rietveld"
 title: "wipken achter het Rietveld"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.015012
 lon: 4.361512
 ---

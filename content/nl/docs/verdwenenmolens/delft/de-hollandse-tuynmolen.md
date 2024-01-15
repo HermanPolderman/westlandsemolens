@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Hollandse Tuynmolen"
 title: "de Hollandse Tuynmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.007587 
 lon: 4.381244
 ---

@@ -2,7 +2,6 @@
 plaats: "Loosduinen"
 naam: "Loosduinen"
 title: "Loosduinen"
-tags: ["verdwenenmolens"]
 ---
 
 de Oost Mae molen

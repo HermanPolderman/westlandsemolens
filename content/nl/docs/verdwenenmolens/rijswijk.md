@@ -2,7 +2,6 @@
 plaats: "Rijswijk"
 naam: "Rijswijk"
 title: "Rijswijk"
-tags: ["verdwenenmolens"]
 ---
 
 de Broekpolder molen

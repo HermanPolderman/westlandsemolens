@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Jonge Jacob / Olie molen van Blom"
 title: "de Jonge Jacob"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.005076 
 lon: 4.362206
 ---

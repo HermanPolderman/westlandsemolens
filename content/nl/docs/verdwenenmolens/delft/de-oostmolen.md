@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Oostmolen"
 title: "de Oostmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.011154
 lon: 4.368563
 ---

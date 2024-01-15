@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "molen bij het Rietveld"
 title: "molen bij het Rietveld"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.014964
 lon: 4.363189
 ---

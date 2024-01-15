@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Pelmolen vh de Cooltuynmolen"
 title: "de Pelmolen vh de Cooltuynmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.014728
 lon: 4.350695
 ---

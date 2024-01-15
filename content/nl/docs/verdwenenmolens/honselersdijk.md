@@ -2,7 +2,6 @@
 plaats: "Honselersdijk"
 naam: "Honselersdijk"
 title: "Honselersdijk"
-tags: ["verdwenenmolens"]
 ---
 
 korenmolen

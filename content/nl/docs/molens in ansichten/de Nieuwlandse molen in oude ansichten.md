@@ -1,7 +1,7 @@
 ---
 date: 2019-10-06
 title: "de Nieuwlandse molen in oude ansichten"
-author: Herman Polderman
+tags: ["ansichten", "Hoek van Holland", "de Nieuwlandse molen"]
 ---
 {{< gallery dir="images/ansichten/de Nieuwlandse molen" //>}}
 

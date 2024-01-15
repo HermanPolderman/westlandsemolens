@@ -4,7 +4,7 @@ plaats: "Rijswijk"
 naam: "de Schaapweimolen"
 title: "de Schaapweimolen"
 afbeelding: "/images/bestaandemolens/de Schaapweimolen.jpg"
-tags: ["molens", "Rijswijk"]
+tags: ["molens", "Rijswijk", "de Schaapweimolen"]
 ---
 {{< molenheader ansicht="de-schaapweimolen" nr=1098 >}}
 

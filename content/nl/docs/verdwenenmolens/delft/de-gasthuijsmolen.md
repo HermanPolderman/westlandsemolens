@@ -2,7 +2,7 @@
 plaats: "Delft"
 naam: "de Gasthuijsmolen"
 title: "de Gasthuijsmolen"
-tags: ["verdwenen", "verdwenen-delft"]
+tags: ["verdwenen", "delft", "verdwenen-delft"]
 lat: 52.007229
 lon: 4.358617
 ---

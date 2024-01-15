@@ -4,7 +4,7 @@ plaats: "Monster"
 naam: "de Vier Winden"
 title: "de Vier Winden"
 afbeelding: "/images/bestaandemolens/de Vier Winden.jpg"
-tags: ["molens", "Monster"]
+tags: ["molens", "Monster", "de Vier Winden"]
 ---
 {{< molenheader site=http://www.devierwindenmonster.nl ansicht="de-vier-winden" nr=1062 >}}
 

@@ -4,7 +4,7 @@ plaats: "Schipluiden"
 naam: "de Korpershoek"
 title: "de Korpershoek"
 afbeelding: "/images/bestaandemolens/de Korpershoek.jpg"
-tags: ["molens", "Schipluiden",]
+tags: ["molens", "Schipluiden", "de Korpershoek"]
 ---
 {{< molenheader ansicht="de-korpershoek" nr=1110 voorganger="schipluiden/de-korpershoek">}}
 
