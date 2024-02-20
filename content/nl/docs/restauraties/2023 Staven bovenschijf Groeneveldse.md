@@ -5,7 +5,10 @@ tags: ["restauraties", "de Groeneveldse"]
 ---
 {{< load-photoswipe >}}
 {{< gallery dir="images/restauraties/2023 Staven bovenschijf Groeneveldse" />}}
-{{< video library="1" src="/images/restauraties/2023 Staven bovenschijf Groeneveldse/VIDEO-2024-02-05-12-42-44.mp4" >}}
+
+Klik voor video:
+
+{{< video library="1" control="yes" src="/images/restauraties/2023 Staven bovenschijf Groeneveldse/bovenwiel.mp4" >}}
 
 
 
