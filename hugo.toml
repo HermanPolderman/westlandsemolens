@@ -4,7 +4,7 @@ title = "Westlandse Molens"
 enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
-theme = ["github.com/google/docsy"]
+theme = ["github.com/docsy/docsy/theme"]
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
@@ -16,7 +16,8 @@ defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
-disableKinds = ["taxonomy"]
+# Tags are used for related-content lookups, not for published tag pages.
+disableKinds = ["taxonomy", "term"]
 
 # Highlighting config
 pygmentsCodeFences = true
@@ -26,6 +27,11 @@ pygmentsUseClassic = false
 #pygmentsOptions = "linenos=table"
 # See https://help.farbox.com/pygments.html
 pygmentsStyle = "tango"
+
+# Allow HTML content files (e.g. content/nl/_index.html). Since Hugo v0.144,
+# text/html is denied by default; only text/org stays blocked here.
+[security]
+allowContent = ['! ^text/org$']
 
 # Configure how URLs look like per section.
 [permalinks]
@@ -41,8 +47,16 @@ latexDashes = true
 # Image processing configuration.
 [imaging]
 resampleFilter = "CatmullRom"
-quality = 75
 anchor = "smart"
+
+[imaging.jpeg]
+quality = 75
+
+[imaging.webp]
+quality = 75
+
+[imaging.avif]
+quality = 75
 
 [services]
 [services.googleAnalytics]
@@ -107,8 +121,8 @@ breadcrumb_disable = false
 sidebar_search_disable = false
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = true
-# Set to true to disable the About link in the site footer
-footer_about_disable = false
+# Set to false to disable the About link in the site footer
+footer_about_enable = true
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.

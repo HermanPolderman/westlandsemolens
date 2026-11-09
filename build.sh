@@ -1,5 +1,11 @@
+#!/bin/sh
+set -e
+
 rm -Rf ./resources
 rm -Rf ./public
-npm install -g npm@10.3.0
-npm install postcss-cli
-hugo -e production -b https://www.westlandsemolens.nl/
+
+# Install theme assets (Bootstrap, Font Awesome) and Dart Sass.
+npm install
+
+# sass-embedded provides the Dart Sass CLI used by Docsy.
+PATH="$PWD/node_modules/.bin:$PATH" hugo -e production -b https://www.westlandsemolens.nl/

@@ -1,58 +1,57 @@
-# Docsy Example
+# Westlandse Molens
 
-[Docsy](https://github.com/google/docsy) is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. This **Docsy Example Project** uses the Docsy theme, as well as providing a skeleton documentation structure for you to use. You can either copy this project and edit it with your own content, or use the theme in your projects like any other [Hugo theme](https://gohugo.io/themes/installing-and-using-themes/).
+Website for [Westlandse Molens](https://www.westlandsemolens.nl/), built with
+[Hugo](https://gohugo.io/) and the [Docsy](https://www.docsy.dev/) theme.
 
-This Docsy Example Project is hosted at [https://example.docsy.dev/](https://example.docsy.dev/).
+## Requirements
 
-You can find detailed theme instructions in the Docsy user guide: https://docsy.dev/docs/
+- Hugo **extended** v0.160.1 or newer
+- Node.js (LTS) and npm
+- Go 1.18+ and Git (for Hugo Modules)
 
-This is not an officially supported Google product. This project is currently maintained.
-
-## Cloning the Docsy Example Project
-
-The following will give you a project that is set up and ready to use (don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site). The `hugo server` command builds and serves the site. If you just want to build the site, run `hugo` instead.
-
-```bash
-git clone --recurse-submodules --depth 1 https://github.com/google/docsy-example.git
-cd docsy-example
-hugo server
-```
-
-The theme is included as a Git submodule:
-
-```bash
-▶ git submodule
- a053131a4ebf6a59e4e8834a42368e248d98c01d themes/docsy (heads/master)
-```
-
-If you want to do SCSS edits and want to publish these, you need to install `PostCSS` (not needed for `hugo server`):
+## Local development
 
 ```bash
 npm install
+npm run serve
 ```
 
-<!--### Cloning the Example from the Theme Project
+`npm install` installs Docsy's Bootstrap/Font Awesome assets and Dart Sass
+(`sass-embedded`). Docsy compiles its SCSS with the Dart Sass `sass` CLI, which
+`npm run` puts on `PATH` from `node_modules/.bin`.
 
+If you run `hugo` directly instead of through an npm script, add that directory
+to `PATH` first:
 
 ```bash
-git clone --recurse-submodules --depth 1 https://github.com/docsy.git
-cd tech-doc-hugo-theme/exampleSite
-HUGO_THEMESDIR="../.." hugo server
+PATH="$PWD/node_modules/.bin:$PATH" hugo server
 ```
 
-
-Note that the Hugo Theme Site requires the `exampleSite` to live in a subfolder of the theme itself. To avoid recursive duplication, the example site is added as a Git subtree:
+## Build
 
 ```bash
-git subtree add --prefix exampleSite https://github.com/google/docsy.git  master --squash
+npm run build
 ```
 
-To pull in changes, see `pull-deps.sh` script in the theme.-->
+This runs `./build.sh`, which installs the npm dependencies and writes the
+generated site to `public/`.
 
-## Running the website locally
+## Deploy
 
-Once you've cloned the site repo, from the repo root folder, run:
+- `./new_deploy.sh` builds the site and uploads a tarball to the server.
+- `./deploy.sh` builds inside Docker and syncs `public/` to the web root.
 
-```
-hugo server
-```
+## Theme
+
+Docsy v0.18.1 is installed as a Hugo Module:
+
+- Module: `github.com/docsy/docsy/theme`
+- Configured via `theme` in `hugo.toml`
+- Update with:
+
+  ```bash
+  hugo mod get github.com/docsy/docsy/theme@latest
+  hugo mod tidy
+  hugo mod npm pack
+  npm install
+  ```
