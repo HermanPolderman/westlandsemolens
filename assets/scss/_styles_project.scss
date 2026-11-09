@@ -1,0 +1,515 @@
+/*
+ * Westlandse Molens — project styles
+ *
+ * Loaded by Docsy after Bootstrap and the theme styles, so rules here can
+ * refine the warm heritage palette without touching the theme itself.
+ */
+
+// ---------------------------------------------------------------------------
+// Global canvas
+// ---------------------------------------------------------------------------
+body {
+  background-color: $heritage-parchment;
+  // A very soft wash of ochre and olive at the top of the page, like light on
+  // old paper. The gradients fade out before the content starts.
+  background-image:
+    radial-gradient(
+      ellipse at 12% 0%,
+      rgba($heritage-ochre, 0.08),
+      transparent 42%
+    ),
+    radial-gradient(
+      ellipse at 88% 2%,
+      rgba($heritage-olive, 0.07),
+      transparent 38%
+    );
+  background-repeat: no-repeat;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a {
+  text-underline-offset: 0.16em;
+  text-decoration-thickness: 0.06em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: $headings-font-family;
+  letter-spacing: -0.012em;
+  color: $heritage-wood;
+}
+
+h1,
+.h1 {
+  letter-spacing: -0.02em;
+}
+
+// Coloured Docsy blocks set their own text colour. Let headings inherit it
+// instead of forcing the dark wood heading colour onto a dark background.
+.td-box,
+.td-cover-block,
+.td-footer {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6 {
+    color: inherit;
+  }
+}
+
+// Docsy's box-variant mixin tints links with Bootstrap blue. On the dark
+// heritage blocks used by this site, use warm cream instead.
+.td-box--0,
+.td-box--1,
+.td-box--2,
+.td-box--3,
+.td-box--6,
+.td-box--8,
+.td-box--9,
+.td-box--10,
+.td-box--11,
+.td-box--12,
+.td-cover-block {
+  a:not(.btn) {
+    color: $heritage-cream;
+    text-decoration-color: rgba($heritage-ochre, 0.85);
+
+    &:hover,
+    &:focus {
+      color: #fff;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Navbar
+// ---------------------------------------------------------------------------
+.td-navbar {
+  --td-navbar-bg-color: #{$heritage-parchment-deep};
+  --td-navbar-border-bottom: 1px solid #{$heritage-border};
+  box-shadow: 0 1px 0 rgba($heritage-brick, 0.06);
+
+  .navbar-brand__name {
+    font-family: $headings-font-family;
+    font-size: 1.45rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: $heritage-wood;
+  }
+
+  .nav-link {
+    color: $heritage-wood;
+    font-weight: 600;
+    letter-spacing: 0.015em;
+  }
+
+  .nav-link:hover,
+  .nav-link:focus {
+    color: $heritage-brick;
+  }
+
+  .nav-link.active {
+    color: $heritage-brick;
+    text-decoration: underline;
+    text-decoration-color: $heritage-ochre;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.45rem;
+  }
+
+  .td-search__input {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-color: $heritage-border;
+    color: $heritage-ink;
+
+    &::placeholder {
+      color: $heritage-muted;
+    }
+
+    &:focus {
+      background-color: #fff;
+      border-color: $heritage-brick;
+      box-shadow: 0 0 0 0.2rem rgba($heritage-brick, 0.12);
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Footer
+// ---------------------------------------------------------------------------
+.td-footer {
+  background-color: $heritage-wood;
+  background-image: linear-gradient(
+    180deg,
+    rgba($heritage-brick, 0.28),
+    transparent 65%
+  );
+  border-top: 3px solid $heritage-ochre;
+  color: $heritage-cream;
+
+  a {
+    color: $heritage-cream;
+  }
+
+  &__links-item a:hover,
+  &__links-item a:focus {
+    color: $heritage-ochre-light !important;
+  }
+
+  &__center {
+    color: rgba($heritage-cream, 0.75);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Page chrome
+// ---------------------------------------------------------------------------
+.td-title,
+.td-content > h1 {
+  font-family: $headings-font-family;
+  font-weight: 600;
+  color: $heritage-wood;
+
+  // Small ochre rule above the page title, like a hand-set heading in a book.
+  &::before {
+    content: '';
+    display: block;
+    width: 3rem;
+    height: 3px;
+    margin-bottom: 1rem;
+    background-color: $heritage-ochre;
+    border-radius: 2px;
+  }
+}
+
+.td-breadcrumbs {
+  font-size: 0.875rem;
+
+  a {
+    color: $heritage-muted;
+
+    &:hover,
+    &:focus {
+      color: $heritage-brick;
+    }
+  }
+
+  &__item[aria-current='page'] {
+    color: $heritage-ink;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Left navigation
+// ---------------------------------------------------------------------------
+@include media-breakpoint-up(md) {
+  .td-sidebar {
+    background-color: rgba($heritage-parchment-deep, 0.45);
+    border-right-color: $heritage-border;
+  }
+}
+
+.td-sidebar-nav {
+  .td-sidebar-link {
+    color: $heritage-ink;
+  }
+
+  .td-sidebar-link__page {
+    color: $heritage-ink;
+  }
+
+  a:hover,
+  a:focus {
+    color: $heritage-brick;
+  }
+
+  a.active {
+    color: $heritage-brick;
+  }
+
+  .td-sidebar-link.tree-root {
+    color: $heritage-wood;
+    border-bottom-color: $heritage-border;
+    font-family: $headings-font-family;
+    font-size: 1.05rem;
+  }
+
+  &__section-title a {
+    color: $heritage-muted;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Right-hand table of contents
+// ---------------------------------------------------------------------------
+.td-sidebar-toc {
+  border-left-color: $heritage-border;
+}
+
+.td-toc {
+  nav a {
+    color: $heritage-muted;
+
+    &:hover,
+    &:focus {
+      color: $heritage-brick;
+    }
+  }
+
+  #TableOfContents a.active {
+    color: $heritage-brick;
+    border-left-color: $heritage-ochre;
+    background-color: rgba($heritage-ochre, 0.09);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Long-form content
+// ---------------------------------------------------------------------------
+.td-content {
+  color: $heritage-ink;
+  line-height: 1.75;
+
+  > h2 {
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid rgba($heritage-ochre, 0.4);
+  }
+
+  blockquote {
+    padding: 0.85rem 1.1rem;
+    color: $heritage-muted;
+    background-color: rgba($heritage-parchment-deep, 0.65);
+    border-left: 4px solid $heritage-ochre;
+    border-radius: 0 $border-radius $border-radius 0;
+    font-family: $headings-font-family;
+    font-size: 1.05rem;
+    font-style: italic;
+  }
+
+  img {
+    border-radius: $border-radius;
+  }
+
+  // Leaflet tiles must stay square, otherwise the rounded corners show as
+  // seams between adjacent tiles.
+  .leaflet-container img {
+    border-radius: 0;
+  }
+
+  hr {
+    border-top-color: $heritage-border;
+  }
+
+  // Tables: warm header, soft stripes, and an ochre rule under the header.
+  table {
+    border-color: $heritage-border;
+
+    > :not(caption) > * > * {
+      border-bottom-color: $heritage-border;
+      padding: 0.6rem 0.75rem;
+    }
+
+    > thead {
+      background-color: $heritage-parchment-deep;
+    }
+
+    > thead th {
+      color: $heritage-wood;
+      font-weight: 600;
+      border-bottom: 2px solid $heritage-ochre;
+    }
+
+    &.table-striped > tbody > tr:nth-of-type(odd) > * {
+      background-color: rgba($heritage-parchment-deep, 0.55);
+      color: $heritage-ink;
+    }
+  }
+
+  // Section landing pages
+  .section-index .entry {
+    padding: 1rem 0.25rem;
+    border-bottom: 1px solid $heritage-border;
+
+    &:hover {
+      background-color: rgba($heritage-parchment-deep, 0.4);
+    }
+
+    h5 a {
+      color: $heritage-wood;
+      text-decoration: none;
+
+      &:hover,
+      &:focus {
+        color: $heritage-brick;
+      }
+    }
+  }
+
+  .panel-line {
+    border-color: $heritage-border;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Cards, alerts and buttons
+// ---------------------------------------------------------------------------
+.card {
+  background-color: rgba(255, 255, 255, 0.55);
+  border-color: $heritage-border;
+  box-shadow: 0 1px 2px rgba($heritage-wood, 0.06);
+}
+
+.card-header,
+.card-footer {
+  background-color: rgba($heritage-parchment-deep, 0.6);
+  border-color: $heritage-border;
+}
+
+.alert {
+  border-radius: 0 $border-radius $border-radius 0;
+}
+
+.btn-primary {
+  --bs-btn-bg: #{$heritage-brick};
+  --bs-btn-border-color: #{$heritage-brick};
+  --bs-btn-hover-bg: #{$heritage-brick-dark};
+  --bs-btn-hover-border-color: #{$heritage-brick-dark};
+  --bs-btn-active-bg: #{$heritage-brick-dark};
+  --bs-btn-active-border-color: #{$heritage-brick-dark};
+}
+
+.btn-outline-primary {
+  --bs-btn-color: #{$heritage-brick};
+  --bs-btn-border-color: #{$heritage-brick};
+  --bs-btn-hover-bg: #{$heritage-brick};
+  --bs-btn-hover-border-color: #{$heritage-brick};
+  --bs-btn-active-bg: #{$heritage-brick-dark};
+  --bs-btn-active-border-color: #{$heritage-brick-dark};
+}
+
+// ---------------------------------------------------------------------------
+// Home page blocks
+// ---------------------------------------------------------------------------
+.td-box--0 {
+  background-image: linear-gradient(
+    120deg,
+    rgba($heritage-brick, 0.42),
+    rgba($heritage-wood, 0) 60%
+  );
+}
+
+.td-box--1 {
+  background-image: linear-gradient(
+    120deg,
+    rgba($heritage-wood, 0.24),
+    transparent 60%
+  );
+}
+
+// ---------------------------------------------------------------------------
+// Molen meta panel (shortcodes: molenheader, modelmolenheader,
+// verdwenenmolenheader)
+// ---------------------------------------------------------------------------
+.molen-meta {
+  display: grid;
+  grid-template-columns: minmax(0, 280px) 1fr;
+  gap: 1.5rem;
+  align-items: start;
+  margin: 1.5rem 0 2rem;
+  padding: 1.25rem;
+  background-color: rgba(255, 255, 255, 0.45);
+  border: 1px solid $heritage-border;
+  border-radius: $border-radius-lg;
+  box-shadow: 0 1px 2px rgba($heritage-wood, 0.05);
+
+  &__figure {
+    margin: 0;
+  }
+
+  &__image {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid rgba($heritage-wood, 0.12);
+    border-radius: $border-radius;
+  }
+
+  &__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-content: flex-start;
+  }
+
+  &__link {
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    color: $heritage-brick;
+    background-color: $heritage-parchment;
+    border: 1px solid $heritage-border;
+    border-radius: 999px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition:
+      background-color 0.15s ease,
+      border-color 0.15s ease,
+      color 0.15s ease;
+
+    &:hover,
+    &:focus {
+      color: #fff;
+      background-color: $heritage-brick;
+      border-color: $heritage-brick;
+      text-decoration: none;
+    }
+  }
+
+  &--compact {
+    grid-template-columns: 1fr;
+    padding: 0.75rem 1rem;
+  }
+
+  // Pages without a header image should use the full width for the links.
+  &:not(:has(.molen-meta__figure)) {
+    grid-template-columns: 1fr;
+  }
+
+  @include media-breakpoint-down(sm) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.molen-meta__restauraties {
+  padding-left: 1.1rem;
+
+  li {
+    margin-bottom: 0.25rem;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Shortcode helpers
+// ---------------------------------------------------------------------------
+.video-shortcode {
+  max-width: 100%;
+  height: auto;
+}

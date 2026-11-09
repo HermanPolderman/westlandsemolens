@@ -9,16 +9,16 @@
 <!-- leaflet-elevation -->
 <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation@1.1.1/dist/leaflet-elevation.css" />
 {{ $leafletElevation := resources.Get "js/leaflet.elevation.js" | minify | fingerprint "md5" }}
-<script src="{{ $leafletElevation.Permalink }}"></script>
+<script src="{{ $leafletElevation.RelPermalink }}"></script>
 
 <!-- leaflet-hugo -->
 {{ $leafletHugo := resources.Get "js/leaflet.hugo.js" | minify | fingerprint "md5" }}
-<script src="{{ $leafletHugo.Permalink }}"></script>
+<script src="{{ $leafletHugo.RelPermalink }}"></script>
 
 <!-- Icons -->
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/leaflet.extra-markers.min.css">
+<link rel="stylesheet" href="{{ "css/leaflet.extra-markers.min.css" | relURL }}">
 {{ $leafletExtra := resources.Get "js/leaflet.extra-markers.min.js" }}
-<script src="{{ $leafletExtra.Permalink }}"></script>
+<script src="{{ $leafletExtra.RelPermalink }}"></script>
 
 <style>
     .fa-icon-marker {

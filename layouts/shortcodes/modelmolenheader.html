@@ -1,5 +1,5 @@
 <!--
-Put this file in /layouts/shortcodes/molendatabasenl.html
+Put this file in /layouts/shortcodes/modelmolenheader.html
 -->
 
 {{- $siteURL := print ($.Get "site") }}
@@ -7,20 +7,25 @@ Put this file in /layouts/shortcodes/molendatabasenl.html
 {{- $afbeelding := ($.Page.Params.afbeelding) }}
 {{- $restauraties := .Site.RegularPages.RelatedTo (keyVals "tags" ($.Get "ansicht"))}}
 
-<table>
-    <img src="{{ $afbeelding }}" width="600" height="600">
-    {{- if $siteURL }}
-        <td><a href="{{ $siteURL }}">Eigen website</a></td>
-    {{ end }}
-    {{- if ($.Get "nr") }}
-        <td><a href="{{ $linkURL }}">Molen Database</a></td>
-    {{ end }}
-
-</table>
+<div class="molen-meta">
+    {{- with $afbeelding }}
+    <figure class="molen-meta__figure">
+        <img class="molen-meta__image" src="{{ . }}" width="600" alt="{{ $.Page.Title }}" decoding="async">
+    </figure>
+    {{- end }}
+    <div class="molen-meta__links">
+        {{- with $siteURL }}
+        <a class="molen-meta__link" href="{{ . }}">Eigen website</a>
+        {{- end }}
+        {{- with ($.Get "nr") }}
+        <a class="molen-meta__link" href="{{ $linkURL }}">Molen Database</a>
+        {{- end }}
+    </div>
+</div>
 
 {{ with $restauraties }}
     <h3>Restauraties</h3>
-    <ul>
+    <ul class="molen-meta__restauraties">
         {{ range . }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}

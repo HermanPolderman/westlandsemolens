@@ -1,10 +1,88 @@
 /*
+ * Westlandse Molens — warm heritage palette
+ *
+ * Project-level SCSS variables. Docsy imports this file before Bootstrap and
+ * before its own theme variables, so the values here override the defaults.
+ *
+ * The palette is drawn from the materials of a Westland windmill: parchment,
+ * brick, oak, thatch, polder green and a little ochre for the sails.
+ */
 
-Add styles or override variables from the theme here.
+// ---------------------------------------------------------------------------
+// Palette
+// ---------------------------------------------------------------------------
+$heritage-parchment: #faf6ee;
+$heritage-parchment-deep: #f2ead9;
+$heritage-parchment-soft: #f6efe1;
+$heritage-cream: #f7efe0;
+$heritage-ink: #2b211b;
+$heritage-muted: #6f5d4b;
+$heritage-wood: #3a2a1f;
+$heritage-brick: #9c3b26;
+$heritage-brick-dark: #7a2c1b;
+$heritage-olive: #566b4c;
+$heritage-ochre: #c08a2e;
+$heritage-ochre-light: #d9a94a;
+$heritage-sky: #46657c;
+$heritage-border: #e0d3bd;
 
-*/
+// Warm neutral ramp. Replacing Bootstrap's cool grays keeps borders, striped
+// tables, code blocks and muted text in the same family as the parchment.
+$gray-100: #f4eddf;
+$gray-200: #ebe0cc;
+$gray-300: #dccdb2;
+$gray-400: #c5b394;
+$gray-500: #a18b6e;
+$gray-600: #7c6953;
+$gray-700: #5b4a3a;
+$gray-800: #403229;
+$gray-900: #2b211b;
 
-.video-shortcode {
-  max-width: 100%;
-  height: auto;
-}
+// ---------------------------------------------------------------------------
+// Bootstrap theme colours
+// ---------------------------------------------------------------------------
+$primary: $heritage-brick;
+$secondary: $heritage-olive;
+$success: #4f6b3f;
+$info: $heritage-sky;
+$warning: $heritage-ochre;
+$danger: #a33327;
+$light: $heritage-parchment-deep;
+$dark: $heritage-wood;
+
+$body-bg: $heritage-parchment;
+$body-color: $heritage-ink;
+$headings-color: $heritage-wood;
+$border-color: $heritage-border;
+
+$link-color: $heritage-brick;
+$link-hover-color: $heritage-brick-dark;
+
+// ---------------------------------------------------------------------------
+// Typography
+// ---------------------------------------------------------------------------
+// A warm humanist sans for the interface and a bookish serif for headings.
+// Both are system font stacks, so there is no extra webfont request.
+$font-family-sans-serif:
+  'Avenir Next', Avenir, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial,
+  sans-serif;
+$headings-font-family:
+  'Iowan Old Style', 'Palatino Linotype', 'Book Antiqua', Palatino, Georgia,
+  'Times New Roman', serif;
+$headings-font-weight: 600;
+
+$font-size-base: 1.0625rem;
+$line-height-base: 1.65;
+
+// ---------------------------------------------------------------------------
+// Shape
+// ---------------------------------------------------------------------------
+$border-radius: 0.25rem;
+$border-radius-sm: 0.2rem;
+$border-radius-lg: 0.4rem;
+
+// ---------------------------------------------------------------------------
+// Docsy
+// ---------------------------------------------------------------------------
+$td-navbar-bg-color: $heritage-parchment-deep;
+$td-font-weight-body-text: 400;

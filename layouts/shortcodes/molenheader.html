@@ -9,30 +9,34 @@ Put this file in /layouts/shortcodes/molenheader.html
 {{- $afbeelding := ($.Page.Params.afbeelding) }}
 {{- $restauraties := .Site.RegularPages.RelatedTo (keyVals "tags" ($.Get "ansicht"))}}
 
-<table>
-    <img src="{{ $afbeelding }}" width="600" height="600">
-
-    {{- if $siteURL }}
-        <td><a href="{{ $siteURL }}">Eigen website</a></td>
-    {{ end }}
-    <td><a href="{{ $ansichtURL }}">Oude ansichten</a></td>
-    {{- if ($.Get "nr") }}
-        <td><a href="{{ $linkURL }}">Molen Database</a></td>
-    {{ end }}
-    {{- if ($.Get "verdwenennr") }}
-        <td><a href="{{ $verdwenenURL }}">Verdwenen Molen Database</a></td>
-    {{ end }}
-    {{- if ($.Get "voorganger") }}
-        <td><a href="/docs/verdwenenmolens/{{ $.Get "voorganger" }}">Voorganger: {{ $.Get "voorganger" }}</a></td>
-    {{ end }}
-</table>
+<div class="molen-meta">
+    {{- with $afbeelding }}
+    <figure class="molen-meta__figure">
+        <img class="molen-meta__image" src="{{ . }}" width="600" alt="{{ $.Page.Title }}" decoding="async">
+    </figure>
+    {{- end }}
+    <div class="molen-meta__links">
+        {{- with $siteURL }}
+        <a class="molen-meta__link" href="{{ . }}">Eigen website</a>
+        {{- end }}
+        <a class="molen-meta__link" href="{{ $ansichtURL }}">Oude ansichten</a>
+        {{- with ($.Get "nr") }}
+        <a class="molen-meta__link" href="{{ $linkURL }}">Molen Database</a>
+        {{- end }}
+        {{- with ($.Get "verdwenennr") }}
+        <a class="molen-meta__link" href="{{ $verdwenenURL }}">Verdwenen Molen Database</a>
+        {{- end }}
+        {{- with ($.Get "voorganger") }}
+        <a class="molen-meta__link" href="/docs/verdwenenmolens/{{ . }}">Voorganger: {{ . }}</a>
+        {{- end }}
+    </div>
+</div>
 
 {{ with $restauraties }}
     <h3>Restauraties</h3>
-    <ul>
+    <ul class="molen-meta__restauraties">
         {{ range . }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
     </ul>
 {{ end }}
-

@@ -66,6 +66,13 @@ figure {
     right: 5px;
     top: 5px;
     bottom: 5px;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(58, 42, 31, 0.12);
+    transition: box-shadow 0.25s ease, transform 0.3s ease;
+}
+.gallery figure:hover {
+    box-shadow: 0 8px 20px rgba(58, 42, 31, 0.22);
 }
 .gallery.hover-effect-grow figure:hover {
     transform: scale(1.05);
@@ -117,11 +124,11 @@ figcaption styles
     bottom: 0;
     left: 0;
     right: 0;
-    background: #000;
-    color: #FFF;
+    color: #f7efe0;
     text-align: center;
-    font-size: 75%; /* change this if you want bigger text */
-    background: rgba(0, 0, 0, 0.5);
+    font-size: 80%; /* change this if you want bigger text */
+    background: rgba(58, 42, 31, 0.82);
+    padding: 0.3rem 0.5rem;
     opacity: 1;
     cursor: pointer;
 }
@@ -132,11 +139,11 @@ figcaption styles
 .gallery.caption-position-center figcaption,
 .fancy-figure.caption-position-center figcaption {
     top: 0;
-    padding: 0px;
+    padding: 0.3rem 0.5rem;
 }
 .gallery.caption-position-bottom figcaption,
 .fancy-figure.caption-position-bottom figcaption {
-    padding: 0px;
+    padding: 0.3rem 0.5rem;
 }
 .gallery.caption-effect-fade figure:not(:hover) figcaption,
 .gallery.caption-effect-appear figure:not(:hover) figcaption,

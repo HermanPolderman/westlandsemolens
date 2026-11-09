@@ -4,18 +4,19 @@ Put this file in /layouts/shortcodes/verdwenenmolenheader.html
 
 {{- $verdwenenURL := print "https://www.molendatabase.org/molendb.php?step=details&nummer="  ($.Get "verdwenennr") }}
 
-<table>
-    {{- if ($.Get "verdwenennr") }}
-        <td><a href="{{ $verdwenenURL }}">Verdwenen Molen Database</a></td>
-    {{ end }}
-    {{- if ($.Get "voorganger") }}
-        <td><a href="../{{ $.Get "voorganger" }}">Voorganger: {{ $.Get "voorganger" }}</a></td>
-    {{ end }}
-    {{- if ($.Get "opvolger") }}
-        <td><a href="../{{ $.Get "opvolger" }}">Opvolger: {{ $.Get "opvolger" }}</a></td>
-    {{ end }}
-    {{- if ($.Get "bestaande") }}
-        <td><a href="/docs/molens/{{ $.Get "bestaande" }}">Bestaande molen: {{ $.Get "bestaande" }}</a></td>
-    {{ end }}
-</table>
-
+<div class="molen-meta molen-meta--compact">
+    <div class="molen-meta__links">
+        {{- with ($.Get "verdwenennr") }}
+        <a class="molen-meta__link" href="{{ $verdwenenURL }}">Verdwenen Molen Database</a>
+        {{- end }}
+        {{- with ($.Get "voorganger") }}
+        <a class="molen-meta__link" href="../{{ . }}">Voorganger: {{ . }}</a>
+        {{- end }}
+        {{- with ($.Get "opvolger") }}
+        <a class="molen-meta__link" href="../{{ . }}">Opvolger: {{ . }}</a>
+        {{- end }}
+        {{- with ($.Get "bestaande") }}
+        <a class="molen-meta__link" href="/docs/molens/{{ . }}">Bestaande molen: {{ . }}</a>
+        {{- end }}
+    </div>
+</div>
